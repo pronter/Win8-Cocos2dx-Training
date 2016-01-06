@@ -1,0 +1,34 @@
+﻿<Page
+    x:Class="ToDoMvvm.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ToDoMvvm"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:Win8nl_Behavior="using:Win8nl.Behaviors"
+
+    DataContext="{Binding Source={StaticResource Locator}, Path=MainViewModel}"
+    xmlns:WinRtBehaviors="using:WinRtBehaviors"
+    mc:Ignorable="d">
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <StackPanel>
+            <TextBlock Text="Windows 8 TODO app" FontSize="42" Margin="20"></TextBlock>
+            <ListBox ItemsSource="{Binding ToDoItems}" Height="300" Name="MyListBox" 
+                     SelectedItem="{Binding SelectedToDo, Mode=TwoWay}" >
+                <WinRtBehaviors:Interaction.Behaviors>
+                    <Win8nl_Behavior:EventToCommandBehavior Event="SelectionChanged" 
+                                                            Command="ItemClickCommand" 
+                                                            CommandParameter="{Binding SelectedToDo, Mode=TwoWay}"/>
+                </WinRtBehaviors:Interaction.Behaviors>
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding Title}"></TextBlock>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </StackPanel>
+    </Grid>
+</Page>
+
+
+

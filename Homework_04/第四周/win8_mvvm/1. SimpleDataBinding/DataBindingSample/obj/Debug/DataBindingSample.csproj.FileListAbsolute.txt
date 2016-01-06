@@ -1,0 +1,232 @@
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\App.g.i.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\App.g.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\AnonymousTypeBinding.g.i.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\AnonymousTypeBinding.g.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\BindToObjects.g.i.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\BindToObjects.g.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\Common\StandardStyles.g.i.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\Common\StandardStyles.g.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\Converters.g.i.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\Converters.g.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\DataTemplating.g.i.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\DataTemplating.g.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\ElementBinding.g.i.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\ElementBinding.g.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\MainPage.g.i.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\MainPage.g.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\NotifyPropertyChangedPerson.g.i.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\NotifyPropertyChangedPerson.g.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\ObservableCollectionBinding.g.i.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\ObservableCollectionBinding.g.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\XamlTypeInfo.g.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\App.xaml
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\AnonymousTypeBinding.xaml
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\BindToObjects.xaml
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\Common\StandardStyles.xaml
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\DataTemplating.xaml
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\ElementBinding.xaml
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\MainPage.xaml
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\NotifyPropertyChangedPerson.xaml
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\ObservableCollectionBinding.xaml
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\Converters.xaml
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\bin\Debug\DataBindingSample.exe
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\bin\Debug\DataBindingSample.pdb
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\bin\Debug\resources.pri
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\bin\Debug\AppxManifest.xml
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\bin\Debug\DataBindingSample.build.appxrecipe
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\DataBindingSample.exe
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\DataBindingSample.pdb
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\priconfig.xml.intermediate
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\layout.resfiles.intermediate
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\resources.resfiles.intermediate
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\pri.resfiles.intermediate
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\priconfig.xml
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\layout.resfiles
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\resources.resfiles
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\pri.resfiles
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\LanguageQualifiers.txt
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Background and lockscreen apps\DataBindingSample\DataBindingSample\obj\Debug\ProjectArchitectures.txt
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\bin\Debug\DataBindingSample.exe
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\bin\Debug\DataBindingSample.pdb
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\bin\Debug\resources.pri
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\bin\Debug\AppxManifest.xml
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\bin\Debug\DataBindingSample.build.appxrecipe
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\App.g.i.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\App.g.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\AnonymousTypeBinding.g.i.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\AnonymousTypeBinding.g.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\BindToObjects.g.i.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\BindToObjects.g.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\Common\StandardStyles.g.i.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\Common\StandardStyles.g.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\Converters.g.i.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\Converters.g.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\DataTemplating.g.i.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\DataTemplating.g.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\ElementBinding.g.i.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\ElementBinding.g.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\MainPage.g.i.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\MainPage.g.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\NotifyPropertyChangedPerson.g.i.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\NotifyPropertyChangedPerson.g.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\ObservableCollectionBinding.g.i.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\ObservableCollectionBinding.g.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\XamlTypeInfo.g.cs
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\App.xaml
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\AnonymousTypeBinding.xaml
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\BindToObjects.xaml
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\Common\StandardStyles.xaml
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\Converters.xaml
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\DataTemplating.xaml
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\ElementBinding.xaml
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\MainPage.xaml
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\NotifyPropertyChangedPerson.xaml
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\ObservableCollectionBinding.xaml
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\DataBindingSample.exe
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\DataBindingSample.pdb
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\priconfig.xml
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\layout.resfiles
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\resources.resfiles
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\pri.resfiles
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\LanguageQualifiers.txt
+F:\Presentations\Windows 8 Release Preview Demos\Advanced WinRT\Demos\DataBindingSample\DataBindingSample\obj\Debug\ProjectArchitectures.txt
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\bin\Debug\DataBindingSample.exe
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\bin\Debug\DataBindingSample.pdb
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\bin\Debug\resources.pri
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\bin\Debug\AppxManifest.xml
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\bin\Debug\DataBindingSample.build.appxrecipe
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\App.g.i.cs
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\App.g.cs
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\AnonymousTypeBinding.g.i.cs
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\AnonymousTypeBinding.g.cs
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\BindToObjects.g.i.cs
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\BindToObjects.g.cs
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\Common\StandardStyles.g.i.cs
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\Common\StandardStyles.g.cs
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\Converters.g.i.cs
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\Converters.g.cs
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\DataTemplating.g.i.cs
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\DataTemplating.g.cs
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\ElementBinding.g.i.cs
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\ElementBinding.g.cs
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\MainPage.g.i.cs
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\MainPage.g.cs
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\NotifyPropertyChangedPerson.g.i.cs
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\NotifyPropertyChangedPerson.g.cs
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\ObservableCollectionBinding.g.i.cs
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\ObservableCollectionBinding.g.cs
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\XamlTypeInfo.g.cs
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\App.xaml
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\AnonymousTypeBinding.xaml
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\BindToObjects.xaml
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\Common\StandardStyles.xaml
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\Converters.xaml
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\DataTemplating.xaml
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\ElementBinding.xaml
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\MainPage.xaml
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\NotifyPropertyChangedPerson.xaml
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\ObservableCollectionBinding.xaml
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\DataBindingSample.exe
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\DataBindingSample.pdb
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\priconfig.xml
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\layout.resfiles
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\resources.resfiles
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\pri.resfiles
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\LanguageQualifiers.txt
+F:\Work\Presentations\Windows 8 Microsoft EMEA sessions\Advanced WinRT\Part 1\Demos\DataBindingSample\DataBindingSample\obj\Debug\ProjectArchitectures.txt
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\bin\Debug\DataBindingSample.exe
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\bin\Debug\DataBindingSample.pdb
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\bin\Debug\resources.pri
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\bin\Debug\AppxManifest.xml
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\bin\Debug\DataBindingSample.build.appxrecipe
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\App.g.i.cs
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\App.g.cs
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\AnonymousTypeBinding.g.i.cs
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\AnonymousTypeBinding.g.cs
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\BindToObjects.g.i.cs
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\BindToObjects.g.cs
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\Common\StandardStyles.g.i.cs
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\Common\StandardStyles.g.cs
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\Converters.g.i.cs
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\Converters.g.cs
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\DataTemplating.g.i.cs
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\DataTemplating.g.cs
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\ElementBinding.g.i.cs
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\ElementBinding.g.cs
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\MainPage.g.i.cs
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\MainPage.g.cs
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\NotifyPropertyChangedPerson.g.i.cs
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\NotifyPropertyChangedPerson.g.cs
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\ObservableCollectionBinding.g.i.cs
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\ObservableCollectionBinding.g.cs
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\XamlTypeInfo.g.cs
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\App.xaml
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\AnonymousTypeBinding.xaml
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\BindToObjects.xaml
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\Common\StandardStyles.xaml
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\Converters.xaml
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\DataTemplating.xaml
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\ElementBinding.xaml
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\MainPage.xaml
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\NotifyPropertyChangedPerson.xaml
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\ObservableCollectionBinding.xaml
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\DataBindingSample.exe
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\DataBindingSample.pdb
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\priconfig.xml.intermediate
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\layout.resfiles.intermediate
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\resources.resfiles.intermediate
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\pri.resfiles.intermediate
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\priconfig.xml
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\layout.resfiles
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\resources.resfiles
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\pri.resfiles
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\LanguageQualifiers.txt
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\1. SimpleDataBinding\DataBindingSample\obj\Debug\ProjectArchitectures.txt
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\bin\Debug\DataBindingSample.exe
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\bin\Debug\DataBindingSample.pdb
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\bin\Debug\resources.pri
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\bin\Debug\AppxManifest.xml
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\bin\Debug\DataBindingSample.build.appxrecipe
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\App.g.i.cs
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\App.g.cs
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\AnonymousTypeBinding.g.i.cs
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\AnonymousTypeBinding.g.cs
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\BindToObjects.g.i.cs
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\BindToObjects.g.cs
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\Converters.g.i.cs
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\Converters.g.cs
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\DataTemplating.g.i.cs
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\DataTemplating.g.cs
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\ElementBinding.g.i.cs
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\ElementBinding.g.cs
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\MainPage.g.i.cs
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\MainPage.g.cs
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\NotifyPropertyChangedPerson.g.i.cs
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\NotifyPropertyChangedPerson.g.cs
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\ObservableCollectionBinding.g.i.cs
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\ObservableCollectionBinding.g.cs
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\App.xaml
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\AnonymousTypeBinding.xaml
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\BindToObjects.xaml
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\Converters.xaml
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\DataTemplating.xaml
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\ElementBinding.xaml
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\MainPage.xaml
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\NotifyPropertyChangedPerson.xaml
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\ObservableCollectionBinding.xaml
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\DataBindingSample.exe
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\DataBindingSample.pdb
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\priconfig.xml.intermediate
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\layout.resfiles.intermediate
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\resources.resfiles.intermediate
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\pri.resfiles.intermediate
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\priconfig.xml
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\layout.resfiles
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\resources.resfiles
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\pri.resfiles
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\LanguageQualifiers.txt
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\obj\Debug\ProjectArchitectures.txt

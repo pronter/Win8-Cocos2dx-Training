@@ -1,0 +1,26 @@
+﻿<Page
+    x:Class="DataBindingSample.Converters"
+    IsTabStop="false"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DataBindingSample"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:converters="using:DataBindingSample.Converter">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+<StackPanel Margin="30">
+            <!-- Add converter as a resource to reference it from a Binding. -->
+            <StackPanel.Resources>
+                <converters:GradeConverter x:Key="GradeConverter"/>
+            </StackPanel.Resources>
+            <Button x:Name="backButton" Click="GoBack" Style="{StaticResource BackButtonStyle}"/>
+            <TextBlock  Text="Percent grade:" FontSize="25" Margin="10" />
+            <Slider x:Name="sliderValueConverter" Minimum="1" Maximum="100" Value="70" Margin="15"/>
+            <TextBlock Text="Letter grade:" FontSize="25" Margin="10" />
+            <TextBox x:Name="tbValueConverterDataBound" 
+                     Text="{Binding ElementName=sliderValueConverter, Path=Value, Mode=OneWay, Converter={StaticResource GradeConverter}}" Margin="10" Width="150"/>
+        </StackPanel>
+    </Grid>
+</Page>

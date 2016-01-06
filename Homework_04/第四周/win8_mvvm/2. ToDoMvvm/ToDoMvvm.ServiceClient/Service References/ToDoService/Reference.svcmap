@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="44499e48-d6ed-45d7-bb69-d1d797ebadcf" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.ObjectModel.ObservableCollection`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>false</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8513/ToDoService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ToDoService.disco" MetadataType="Disco" ID="26add10a-0de5-4b8a-aab9-e7aba30aaad2" SourceId="1" SourceUrl="http://localhost:8513/ToDoService.svc?disco" />
+    <MetadataFile FileName="ToDoService.wsdl" MetadataType="Wsdl" ID="076b9c34-7f02-467b-a5a3-2eefcbd59a18" SourceId="1" SourceUrl="http://localhost:8513/ToDoService.svc?wsdl" />
+    <MetadataFile FileName="ToDoService.xsd" MetadataType="Schema" ID="924b2cd4-7f0b-45b7-b0cb-822a5523eafe" SourceId="1" SourceUrl="http://localhost:8513/ToDoService.svc?xsd=xsd2" />
+    <MetadataFile FileName="ToDoService1.xsd" MetadataType="Schema" ID="ee422daa-092c-4f3f-9b1b-d5a7e72cb5df" SourceId="1" SourceUrl="http://localhost:8513/ToDoService.svc?xsd=xsd1" />
+    <MetadataFile FileName="ToDoService2.xsd" MetadataType="Schema" ID="f24c5ed4-fd6b-4169-879a-e5df765d1f05" SourceId="1" SourceUrl="http://localhost:8513/ToDoService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

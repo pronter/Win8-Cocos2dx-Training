@@ -1,0 +1,1 @@
+C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\DataBindingSample.csproj;neutral

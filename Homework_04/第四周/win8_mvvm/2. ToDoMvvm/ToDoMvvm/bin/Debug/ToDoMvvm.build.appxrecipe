@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>THINKPAD8</Machine>
+    <WindowsUser>Gill</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.exe">
+      <PackagePath>ToDoMvvm.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.pdb">
+      <PackagePath>ToDoMvvm.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm.Contracts\bin\Debug\ToDoMvvm.Contracts.pdb">
+      <PackagePath>ToDoMvvm.Contracts.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm.ServiceClient\bin\Debug\ToDoMvvm.ServiceClient.pdb">
+      <PackagePath>ToDoMvvm.ServiceClient.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm.Services\bin\Debug\ToDoMvvm.Services.pdb">
+      <PackagePath>ToDoMvvm.Services.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm.ViewModels\bin\Debug\ToDoMvvm.ViewModels.pdb">
+      <PackagePath>ToDoMvvm.ViewModels.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm.Messages\bin\Debug\ToDoMvvm.Messages.pdb">
+      <PackagePath>ToDoMvvm.Messages.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\MvvmLight.4.1.23.0\lib\winrt45\GalaSoft.MvvmLight.Extras.Win8.dll">
+      <PackagePath>GalaSoft.MvvmLight.Extras.Win8.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\MvvmLight.4.1.23.0\lib\winrt45\GalaSoft.MvvmLight.Win8.dll">
+      <PackagePath>GalaSoft.MvvmLight.Win8.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\MvvmLight.4.1.23.0\lib\winrt45\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\Rx-Core.2.0.20823\lib\WinRT45\System.Reactive.Core.dll">
+      <PackagePath>System.Reactive.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\Rx-Interfaces.2.0.20823\lib\WinRT45\System.Reactive.Interfaces.dll">
+      <PackagePath>System.Reactive.Interfaces.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\Rx-Linq.2.0.20823\lib\WinRT45\System.Reactive.Linq.dll">
+      <PackagePath>System.Reactive.Linq.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\Rx-PlatformServices.2.0.20823\lib\WinRT45\System.Reactive.PlatformServices.dll">
+      <PackagePath>System.Reactive.PlatformServices.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm.Contracts\bin\Debug\ToDoMvvm.Contracts.dll">
+      <PackagePath>ToDoMvvm.Contracts.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm.Services\bin\Debug\ToDoMvvm.Services.dll">
+      <PackagePath>ToDoMvvm.Services.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm.ViewModels\bin\Debug\ToDoMvvm.ViewModels.dll">
+      <PackagePath>ToDoMvvm.ViewModels.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\Win8nl.1.0.3\lib\winrt45\Win8nl.dll">
+      <PackagePath>Win8nl.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\Win8nl.1.0.3\lib\winrt45\Win8nl.External.dll">
+      <PackagePath>Win8nl.External.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\Win8nl.1.0.3\lib\winrt45\Win8nl.Utilities.dll">
+      <PackagePath>Win8nl.Utilities.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\WinRtBehaviors.1.0.2\lib\winrt45\WinRtBehaviors.dll">
+      <PackagePath>WinRtBehaviors.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm.Contracts\bin\Debug\ToDoMvvm.ServiceClient.dll">
+      <PackagePath>ToDoMvvm.ServiceClient.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm.ViewModels\bin\Debug\ToDoMvvm.Messages.dll">
+      <PackagePath>ToDoMvvm.Messages.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\MvvmLight.4.1.23.0\lib\winrt45\GalaSoft.MvvmLight.Extras.Win8.xml">
+      <PackagePath>GalaSoft.MvvmLight.Extras.Win8.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\MvvmLight.4.1.23.0\lib\winrt45\GalaSoft.MvvmLight.Win8.xml">
+      <PackagePath>GalaSoft.MvvmLight.Win8.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\MvvmLight.4.1.23.0\lib\winrt45\Microsoft.Practices.ServiceLocation.xml">
+      <PackagePath>Microsoft.Practices.ServiceLocation.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\Rx-Core.2.0.20823\lib\WinRT45\System.Reactive.Core.xml">
+      <PackagePath>System.Reactive.Core.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\Rx-Interfaces.2.0.20823\lib\WinRT45\System.Reactive.Interfaces.xml">
+      <PackagePath>System.Reactive.Interfaces.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\Rx-Linq.2.0.20823\lib\WinRT45\System.Reactive.Linq.xml">
+      <PackagePath>System.Reactive.Linq.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\Rx-PlatformServices.2.0.20823\lib\WinRT45\System.Reactive.PlatformServices.xml">
+      <PackagePath>System.Reactive.PlatformServices.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\Assets\620.png">
+      <PackagePath>Assets\620.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\Assets\small.png">
+      <PackagePath>Assets\small.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\Assets\square.png">
+      <PackagePath>Assets\square.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\Assets\wide.png">
+      <PackagePath>Assets\wide.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\MVVMLight.Nuget.Readme.txt">
+      <PackagePath>MVVMLight.Nuget.Readme.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm.ViewModels\MVVMLight.Nuget.Readme.txt">
+      <PackagePath>ToDoMvvm.ViewModels\MVVMLight.Nuget.Readme.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\EditPage.xaml">
+      <PackagePath>EditPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

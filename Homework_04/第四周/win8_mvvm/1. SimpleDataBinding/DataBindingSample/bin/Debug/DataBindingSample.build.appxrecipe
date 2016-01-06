@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LO</Machine>
+    <WindowsUser>Zijia</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\bin\Debug\DataBindingSample.exe">
+      <PackagePath>DataBindingSample.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\bin\Debug\DataBindingSample.pdb">
+      <PackagePath>DataBindingSample.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\Assets\f65a9f2f-0b67-4ca5-baff-ac06e1c01b38_l.png">
+      <PackagePath>Assets\f65a9f2f-0b67-4ca5-baff-ac06e1c01b38_l.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\Assets\SLShow.png">
+      <PackagePath>Assets\SLShow.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\bin\Debug\AnonymousTypeBinding.xaml">
+      <PackagePath>AnonymousTypeBinding.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\bin\Debug\BindToObjects.xaml">
+      <PackagePath>BindToObjects.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\bin\Debug\Converters.xaml">
+      <PackagePath>Converters.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\bin\Debug\DataTemplating.xaml">
+      <PackagePath>DataTemplating.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\bin\Debug\ElementBinding.xaml">
+      <PackagePath>ElementBinding.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\bin\Debug\NotifyPropertyChangedPerson.xaml">
+      <PackagePath>NotifyPropertyChangedPerson.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\bin\Debug\ObservableCollectionBinding.xaml">
+      <PackagePath>ObservableCollectionBinding.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\第四周\win8_mvvm\1. SimpleDataBinding\DataBindingSample\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

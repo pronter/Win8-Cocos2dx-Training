@@ -1,0 +1,14 @@
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm.Shared\bin\Debug\ToDoMvvm.Shared.dll
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm.Shared\bin\Debug\ToDoMvvm.Shared.pdb
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm.Shared\bin\Debug\ToDoMvvm.Shared.pri
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm.Shared\obj\Debug\ToDoMvvm.Shared.dll
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm.Shared\obj\Debug\ToDoMvvm.Shared.pdb
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm.Shared\obj\Debug\priconfig.xml.intermediate
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm.Shared\obj\Debug\layout.resfiles.intermediate
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm.Shared\obj\Debug\resources.resfiles.intermediate
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm.Shared\obj\Debug\pri.resfiles.intermediate
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm.Shared\obj\Debug\priconfig.xml
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm.Shared\obj\Debug\layout.resfiles
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm.Shared\obj\Debug\resources.resfiles
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm.Shared\obj\Debug\pri.resfiles
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm.Shared\obj\Debug\LanguageQualifiers.txt

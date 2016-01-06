@@ -1,0 +1,5 @@
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMVVM.Web.Services\bin\ToDoMVVM.Web.Services.dll
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMVVM.Web.Services\bin\ToDoMVVM.Web.Services.pdb
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMVVM.Web.Services\obj\Debug\ToDoMVVM.Web.Services.dll
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMVVM.Web.Services\obj\Debug\ToDoMVVM.Web.Services.pdb
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMVVM.Web.Services\obj\Debug\ToDoMVVM.Web.Services.csprojResolveAssemblyReference.cache

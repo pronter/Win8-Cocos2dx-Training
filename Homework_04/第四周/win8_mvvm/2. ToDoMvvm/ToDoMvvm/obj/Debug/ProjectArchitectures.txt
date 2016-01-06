@@ -1,0 +1,10 @@
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm.Contracts\ToDoMvvm.Contracts.csproj;neutral
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm.Contracts\ToDoMvvm.Contracts.csproj;neutral
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm.Contracts\ToDoMvvm.Contracts.csproj;neutral
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm.Messages\ToDoMvvm.Messages.csproj;neutral
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm.ServiceClient\ToDoMvvm.ServiceClient.csproj;neutral
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm.ServiceClient\ToDoMvvm.ServiceClient.csproj;neutral
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm.ServiceClient\ToDoMvvm.ServiceClient.csproj;neutral
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm.Services\ToDoMvvm.Services.csproj;neutral
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm.ViewModels\ToDoMvvm.ViewModels.csproj;neutral
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\ToDoMvvm.csproj;neutral

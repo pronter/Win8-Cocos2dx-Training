@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>THINKPAD8</Machine>
+    <WindowsUser>Gill</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>37ACA0F2A13042FABDC09CE7AFF5D3BFFC26387E4CCF25C25C889E8C809B5AE2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>537fc1e7-83d4-46d2-80e0-e5be07b102b2_1.0.0.0_neutral__fvhy267pka8tt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>537fc1e7-83d4-46d2-80e0-e5be07b102b2_fvhy267pka8tt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>537fc1e7-83d4-46d2-80e0-e5be07b102b2</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Gill</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-10-14T09:15:08.991</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.exe">
+      <PackagePath>ToDoMvvm.exe</PackagePath>
+      <Modified>2012-10-29T18:50:36.813</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.pdb">
+      <PackagePath>ToDoMvvm.pdb</PackagePath>
+      <Modified>2012-10-29T18:50:36.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm.Contracts\bin\Debug\ToDoMvvm.Contracts.pdb">
+      <PackagePath>ToDoMvvm.Contracts.pdb</PackagePath>
+      <Modified>2012-09-30T21:44:12.271</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm.ServiceClient\bin\Debug\ToDoMvvm.ServiceClient.pdb">
+      <PackagePath>ToDoMvvm.ServiceClient.pdb</PackagePath>
+      <Modified>2012-09-30T16:47:25.171</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm.Services\bin\Debug\ToDoMvvm.Services.pdb">
+      <PackagePath>ToDoMvvm.Services.pdb</PackagePath>
+      <Modified>2012-09-30T21:44:13.212</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm.ViewModels\bin\Debug\ToDoMvvm.ViewModels.pdb">
+      <PackagePath>ToDoMvvm.ViewModels.pdb</PackagePath>
+      <Modified>2012-10-29T18:50:34.139</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm.Messages\bin\Debug\ToDoMvvm.Messages.pdb">
+      <PackagePath>ToDoMvvm.Messages.pdb</PackagePath>
+      <Modified>2012-09-30T16:47:26.906</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\MvvmLight.4.1.23.0\lib\winrt45\GalaSoft.MvvmLight.Extras.Win8.dll">
+      <PackagePath>GalaSoft.MvvmLight.Extras.Win8.dll</PackagePath>
+      <Modified>2012-09-30T14:01:00.500</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\MvvmLight.4.1.23.0\lib\winrt45\GalaSoft.MvvmLight.Win8.dll">
+      <PackagePath>GalaSoft.MvvmLight.Win8.dll</PackagePath>
+      <Modified>2012-09-30T14:01:00.517</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\MvvmLight.4.1.23.0\lib\winrt45\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+      <Modified>2012-09-30T14:01:00.534</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\Rx-Core.2.0.20823\lib\WinRT45\System.Reactive.Core.dll">
+      <PackagePath>System.Reactive.Core.dll</PackagePath>
+      <Modified>2012-09-30T15:15:58.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\Rx-Interfaces.2.0.20823\lib\WinRT45\System.Reactive.Interfaces.dll">
+      <PackagePath>System.Reactive.Interfaces.dll</PackagePath>
+      <Modified>2012-09-30T15:15:58.246</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\Rx-Linq.2.0.20823\lib\WinRT45\System.Reactive.Linq.dll">
+      <PackagePath>System.Reactive.Linq.dll</PackagePath>
+      <Modified>2012-09-30T15:15:58.589</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\Rx-PlatformServices.2.0.20823\lib\WinRT45\System.Reactive.PlatformServices.dll">
+      <PackagePath>System.Reactive.PlatformServices.dll</PackagePath>
+      <Modified>2012-09-30T15:15:58.741</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm.Contracts\bin\Debug\ToDoMvvm.Contracts.dll">
+      <PackagePath>ToDoMvvm.Contracts.dll</PackagePath>
+      <Modified>2012-09-30T21:44:12.299</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm.Services\bin\Debug\ToDoMvvm.Services.dll">
+      <PackagePath>ToDoMvvm.Services.dll</PackagePath>
+      <Modified>2012-09-30T21:44:13.239</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm.ViewModels\bin\Debug\ToDoMvvm.ViewModels.dll">
+      <PackagePath>ToDoMvvm.ViewModels.dll</PackagePath>
+      <Modified>2012-10-29T18:50:34.169</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\Win8nl.1.0.3\lib\winrt45\Win8nl.dll">
+      <PackagePath>Win8nl.dll</PackagePath>
+      <Modified>2012-09-30T15:15:58.834</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\Win8nl.1.0.3\lib\winrt45\Win8nl.External.dll">
+      <PackagePath>Win8nl.External.dll</PackagePath>
+      <Modified>2012-09-30T15:15:58.848</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\Win8nl.1.0.3\lib\winrt45\Win8nl.Utilities.dll">
+      <PackagePath>Win8nl.Utilities.dll</PackagePath>
+      <Modified>2012-09-30T15:15:58.862</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\WinRtBehaviors.1.0.2\lib\winrt45\WinRtBehaviors.dll">
+      <PackagePath>WinRtBehaviors.dll</PackagePath>
+      <Modified>2012-09-30T14:06:52.670</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm.Contracts\bin\Debug\ToDoMvvm.ServiceClient.dll">
+      <PackagePath>ToDoMvvm.ServiceClient.dll</PackagePath>
+      <Modified>2012-09-30T16:47:25.201</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm.ViewModels\bin\Debug\ToDoMvvm.Messages.dll">
+      <PackagePath>ToDoMvvm.Messages.dll</PackagePath>
+      <Modified>2012-09-30T16:47:26.938</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\MvvmLight.4.1.23.0\lib\winrt45\GalaSoft.MvvmLight.Extras.Win8.xml">
+      <PackagePath>GalaSoft.MvvmLight.Extras.Win8.xml</PackagePath>
+      <Modified>2012-09-30T14:01:00.503</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\MvvmLight.4.1.23.0\lib\winrt45\GalaSoft.MvvmLight.Win8.xml">
+      <PackagePath>GalaSoft.MvvmLight.Win8.xml</PackagePath>
+      <Modified>2012-09-30T14:01:00.521</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\MvvmLight.4.1.23.0\lib\winrt45\Microsoft.Practices.ServiceLocation.xml">
+      <PackagePath>Microsoft.Practices.ServiceLocation.xml</PackagePath>
+      <Modified>2012-09-30T14:01:00.537</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\Rx-Core.2.0.20823\lib\WinRT45\System.Reactive.Core.xml">
+      <PackagePath>System.Reactive.Core.xml</PackagePath>
+      <Modified>2012-09-30T15:15:58.387</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\Rx-Interfaces.2.0.20823\lib\WinRT45\System.Reactive.Interfaces.xml">
+      <PackagePath>System.Reactive.Interfaces.xml</PackagePath>
+      <Modified>2012-09-30T15:15:58.249</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\Rx-Linq.2.0.20823\lib\WinRT45\System.Reactive.Linq.xml">
+      <PackagePath>System.Reactive.Linq.xml</PackagePath>
+      <Modified>2012-09-30T15:15:58.609</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\packages\Rx-PlatformServices.2.0.20823\lib\WinRT45\System.Reactive.PlatformServices.xml">
+      <PackagePath>System.Reactive.PlatformServices.xml</PackagePath>
+      <Modified>2012-09-30T15:15:58.744</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\Assets\620.png">
+      <PackagePath>Assets\620.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-30T21:41:14.149</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\Assets\small.png">
+      <PackagePath>Assets\small.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-30T21:36:41.742</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\Assets\square.png">
+      <PackagePath>Assets\square.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-30T21:36:17.725</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\Assets\wide.png">
+      <PackagePath>Assets\wide.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-30T21:36:17.726</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\MVVMLight.Nuget.Readme.txt">
+      <PackagePath>MVVMLight.Nuget.Readme.txt</PackagePath>
+      <Modified>2012-09-30T15:24:09.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm.ViewModels\MVVMLight.Nuget.Readme.txt">
+      <PackagePath>ToDoMvvm.ViewModels\MVVMLight.Nuget.Readme.txt</PackagePath>
+      <Modified>2012-09-30T15:20:48.045</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-09-30T15:27:00.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-09-30T16:40:13.363</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\EditPage.xaml">
+      <PackagePath>EditPage.xaml</PackagePath>
+      <Modified>2012-09-30T16:40:30.921</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-10-29T18:50:32.705</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-10-14T09:15:08.777</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

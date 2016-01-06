@@ -1,0 +1,63 @@
+﻿<Page
+    x:Class="DataBindingSample.MainPage"
+    IsTabStop="false"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DataBindingSample"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <ScrollViewer>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="100"></RowDefinition>
+                    <RowDefinition Height="80"></RowDefinition>
+                    <RowDefinition Height="80"></RowDefinition>
+                    <RowDefinition Height="80"></RowDefinition>
+                    <RowDefinition Height="80"></RowDefinition>
+                    <RowDefinition Height="80"></RowDefinition>
+                    <RowDefinition Height="80"></RowDefinition>
+                    <RowDefinition Height="80"></RowDefinition>
+                    <RowDefinition Height="80"></RowDefinition>
+                    <RowDefinition Height="80"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <TextBlock Text="Silverlight MVVM Webinar Demos" FontSize="40" Margin="20" Grid.ColumnSpan="2"></TextBlock>
+                <TextBlock Text="Data binding in WinRT" FontSize="28" Margin="20 10 20 10" Grid.ColumnSpan="2" Grid.Row="1"></TextBlock>
+                <StackPanel Orientation="Horizontal" Grid.Row="2">
+                    <TextBlock FontSize="25" HorizontalAlignment="Center" VerticalAlignment="Center">Element binding</TextBlock>
+                    <Button x:ConnectionId='7' Content="Element binding"  Name="ElementBindingButton"                                     ></Button>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Grid.Row="3" >
+                    <TextBlock Grid.Row="2" FontSize="25" HorizontalAlignment="Center" VerticalAlignment="Center">Object binding</TextBlock>
+                    <Button x:ConnectionId='6' Content="Object binding"  Name="BindingToObjectsButton"                                       ></Button>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Grid.Row="4" >
+                    <TextBlock Grid.Row="2" FontSize="25" HorizontalAlignment="Center" VerticalAlignment="Center">ObservableCollection binding</TextBlock>
+                    <Button x:ConnectionId='5' Content="ObservableCollection binding"  Name="ObservableCollectionBinding"                                            ></Button>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Grid.Row="5" >
+                    <TextBlock Grid.Row="2" FontSize="25" HorizontalAlignment="Center" VerticalAlignment="Center">NotifyPropertyChanged binding</TextBlock>
+                    <Button x:ConnectionId='4' Content="NotifyPropertyChanged binding"  Name="NotifyPropertyChangedBindingButton"                                                   ></Button>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Grid.Row="6" >
+                    <TextBlock Grid.Row="2" FontSize="25" HorizontalAlignment="Center" VerticalAlignment="Center">Using converters</TextBlock>
+                    <Button x:ConnectionId='3' Content="Using converters"  Name="ConvertersButton"                                 ></Button>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Grid.Row="7" >
+                    <TextBlock Grid.Row="2" FontSize="25" HorizontalAlignment="Center" VerticalAlignment="Center">Using data templates</TextBlock>
+                    <Button x:ConnectionId='2' Content="Using data templates"  Name="DataTemplatesButton"                                    ></Button>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Grid.Row="8" >
+                    <TextBlock Grid.Row="2" FontSize="25" HorizontalAlignment="Center" VerticalAlignment="Center">Binding to anonymous types</TextBlock>
+                    <Button x:ConnectionId='1' Content="Binding to anonymous types"  Name="AnonymousTypeBinding"                                     ></Button>
+                </StackPanel>
+            </Grid>
+
+        </ScrollViewer>
+    </Grid>
+</Page>
+

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="d0decc99-a668-4eef-98d3-d69b86625534" Publisher="CN=Gill" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>DataBindingSample</DisplayName>
+    <PublisherDisplayName>Gill</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.0</OSMinVersion>
+    <OSMaxVersionTested>6.2.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="DataBindingSample.App">
+      <VisualElements DisplayName="DataBindingSample" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="DataBindingSample" ForegroundText="light" BackgroundColor="#00a5fa">
+        <DefaultTile ShowName="allLogos" />
+        <SplashScreen Image="Assets\SLShow.png" BackgroundColor="#00a5fa" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

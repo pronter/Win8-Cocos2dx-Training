@@ -1,0 +1,148 @@
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\ToDoMvvm.csprojResolveAssemblyReference.cache
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\App.g.i.cs
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\App.g.cs
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\Common\StandardStyles.g.i.cs
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\Common\StandardStyles.g.cs
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\EditPage.g.i.cs
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\EditPage.g.cs
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\MainPage.g.i.cs
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\MainPage.g.cs
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\XamlTypeInfo.g.cs
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\Common\StandardStyles.xaml
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\EditPage.xaml
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\MainPage.xaml
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.exe
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.pdb
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\resources.pri
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\AppxManifest.xml
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.build.appxrecipe
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\GalaSoft.MvvmLight.Extras.Win8.dll
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\GalaSoft.MvvmLight.Win8.dll
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\System.Reactive.Core.dll
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\System.Reactive.Interfaces.dll
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\System.Reactive.Linq.dll
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\System.Reactive.PlatformServices.dll
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.Contracts.dll
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.Services.dll
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.ViewModels.dll
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\Win8nl.dll
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\Win8nl.External.dll
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\Win8nl.Utilities.dll
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\WinRtBehaviors.dll
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.ServiceClient.dll
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.Contracts.pdb
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.Contracts.pri
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.Services.pdb
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.Services.pri
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.ViewModels.pdb
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.ViewModels.pri
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\GalaSoft.MvvmLight.Extras.Win8.xml
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\GalaSoft.MvvmLight.Win8.xml
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\System.Reactive.Core.xml
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\System.Reactive.Interfaces.xml
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\System.Reactive.Linq.xml
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\System.Reactive.PlatformServices.xml
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.ServiceClient.pdb
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.ServiceClient.pri
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\App.xaml
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\ToDoMvvm.exe
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\ToDoMvvm.pdb
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\System.Reactive.Core\en-US\System.Reactive.Strings_Core.resw
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\System.Reactive.Linq\en-US\System.Reactive.Strings_Linq.resw
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\System.Reactive.PlatformServices\en-US\System.Reactive.Strings_PlatformServices.resw
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\ToDoMvvm.csproj.GenerateResource.Cache
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\System.Reactive.Core.pri
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\System.Reactive.Core\LanguageQualifiers.txt
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\System.Reactive.Linq.pri
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\System.Reactive.Linq\LanguageQualifiers.txt
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\System.Reactive.PlatformServices.pri
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\System.Reactive.PlatformServices\LanguageQualifiers.txt
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\priconfig.xml
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\layout.resfiles
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\resources.resfiles
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\pri.resfiles
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\LanguageQualifiers.txt
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\ProjectArchitectures.txt
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.Messages.dll
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.Messages.pdb
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.Messages.pri
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\priconfig.xml.intermediate
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\layout.resfiles.intermediate
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\resources.resfiles.intermediate
+F:\Work\Presentations\SilverlightShow webinar\MVVM in Windows 8\ToDoMvvm\ToDoMvvm\obj\Debug\pri.resfiles.intermediate
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.exe
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.pdb
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\resources.pri
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\AppxManifest.xml
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.build.appxrecipe
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\GalaSoft.MvvmLight.Extras.Win8.dll
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\GalaSoft.MvvmLight.Win8.dll
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\System.Reactive.Core.dll
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\System.Reactive.Interfaces.dll
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\System.Reactive.Linq.dll
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\System.Reactive.PlatformServices.dll
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.Contracts.dll
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.Services.dll
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.ViewModels.dll
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\Win8nl.dll
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\Win8nl.External.dll
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\Win8nl.Utilities.dll
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\WinRtBehaviors.dll
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.ServiceClient.dll
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.Messages.dll
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.Contracts.pdb
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.Contracts.pri
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.Services.pdb
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.Services.pri
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.ViewModels.pdb
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.ViewModels.pri
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\GalaSoft.MvvmLight.Extras.Win8.xml
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\GalaSoft.MvvmLight.Win8.xml
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\System.Reactive.Core.xml
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\System.Reactive.Interfaces.xml
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\System.Reactive.Linq.xml
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\System.Reactive.PlatformServices.xml
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.ServiceClient.pdb
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.ServiceClient.pri
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.Messages.pdb
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\bin\Debug\ToDoMvvm.Messages.pri
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\ToDoMvvm.csprojResolveAssemblyReference.cache
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\App.g.i.cs
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\App.g.cs
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\Common\StandardStyles.g.i.cs
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\Common\StandardStyles.g.cs
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\EditPage.g.i.cs
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\EditPage.g.cs
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\MainPage.g.i.cs
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\MainPage.g.cs
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\XamlTypeInfo.g.cs
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\App.xaml
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\Common\StandardStyles.xaml
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\EditPage.xaml
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\MainPage.xaml
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\ToDoMvvm.exe
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\ToDoMvvm.pdb
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\System.Reactive.Core\en-US\System.Reactive.Strings_Core.resw
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\System.Reactive.Linq\en-US\System.Reactive.Strings_Linq.resw
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\System.Reactive.PlatformServices\en-US\System.Reactive.Strings_PlatformServices.resw
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\ToDoMvvm.csproj.GenerateResource.Cache
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\System.Reactive.Core.pri
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\System.Reactive.Core\LanguageQualifiers.txt
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\System.Reactive.Linq.pri
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\System.Reactive.Linq\LanguageQualifiers.txt
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\System.Reactive.PlatformServices.pri
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\System.Reactive.PlatformServices\LanguageQualifiers.txt
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\priconfig.xml.intermediate
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\layout.resfiles.intermediate
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\resources.resfiles.intermediate
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\pri.resfiles.intermediate
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\priconfig.xml
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\layout.resfiles
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\resources.resfiles
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\pri.resfiles
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\LanguageQualifiers.txt
+F:\Dropbox\Work\Presentations\2012\SilverlightShow\2. ToDoMvvm\ToDoMvvm\obj\Debug\ProjectArchitectures.txt
