@@ -1,0 +1,1585 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LO</Machine>
+    <WindowsUser>Zijia</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>b3cbc7ac-25e8-4dda-a091-231a51997222</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Zijia\Desktop\期中作业\Project\Project\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\bin\Debug\Project.exe">
+      <PackagePath>Project.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\packages\MvvmLightLibs.5.0.2.0\lib\netcore451\GalaSoft.MvvmLight.dll">
+      <PackagePath>GalaSoft.MvvmLight.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\packages\MvvmLightLibs.5.0.2.0\lib\netcore451\GalaSoft.MvvmLight.Extras.dll">
+      <PackagePath>GalaSoft.MvvmLight.Extras.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\packages\MvvmLightLibs.5.0.2.0\lib\netcore451\GalaSoft.MvvmLight.Platform.dll">
+      <PackagePath>GalaSoft.MvvmLight.Platform.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\123.jpg">
+      <PackagePath>Assets\123.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\background.jpg">
+      <PackagePath>Assets\background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\150.png">
+      <PackagePath>Assets\150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\30.png">
+      <PackagePath>Assets\30.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\310-150.png">
+      <PackagePath>Assets\310-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\310.png">
+      <PackagePath>Assets\310.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\70.scale-140.png">
+      <PackagePath>Assets\70.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\card-back.png">
+      <PackagePath>Assets\card-back.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\fashi.png">
+      <PackagePath>Assets\fashi.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\game.png">
+      <PackagePath>Assets\game.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\亡语流奥秘法\复制.png">
+      <PackagePath>Assets\亡语流奥秘法\复制.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\亡语流奥秘法\奥术智慧 - 副本.png">
+      <PackagePath>Assets\亡语流奥秘法\奥术智慧 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\亡语流奥秘法\奥术智慧.png">
+      <PackagePath>Assets\亡语流奥秘法\奥术智慧.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\亡语流奥秘法\寒冰箭 - 副本.png">
+      <PackagePath>Assets\亡语流奥秘法\寒冰箭 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\亡语流奥秘法\寒冰箭.png">
+      <PackagePath>Assets\亡语流奥秘法\寒冰箭.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\亡语流奥秘法\希尔瓦娜斯·风行者.png">
+      <PackagePath>Assets\亡语流奥秘法\希尔瓦娜斯·风行者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\亡语流奥秘法\战利品贮藏者 - 副本.png">
+      <PackagePath>Assets\亡语流奥秘法\战利品贮藏者 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\亡语流奥秘法\战利品贮藏者.png">
+      <PackagePath>Assets\亡语流奥秘法\战利品贮藏者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\亡语流奥秘法\水元素 - 副本.png">
+      <PackagePath>Assets\亡语流奥秘法\水元素 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\亡语流奥秘法\水元素.png">
+      <PackagePath>Assets\亡语流奥秘法\水元素.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\亡语流奥秘法\法力浮龙 - 副本.png">
+      <PackagePath>Assets\亡语流奥秘法\法力浮龙 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\亡语流奥秘法\法力浮龙.png">
+      <PackagePath>Assets\亡语流奥秘法\法力浮龙.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\亡语流奥秘法\法术反制 - 副本.png">
+      <PackagePath>Assets\亡语流奥秘法\法术反制 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\亡语流奥秘法\法术反制.png">
+      <PackagePath>Assets\亡语流奥秘法\法术反制.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\亡语流奥秘法\洛欧赛布.png">
+      <PackagePath>Assets\亡语流奥秘法\洛欧赛布.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\亡语流奥秘法\淤泥喷射者 - 副本.png">
+      <PackagePath>Assets\亡语流奥秘法\淤泥喷射者 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\亡语流奥秘法\淤泥喷射者.png">
+      <PackagePath>Assets\亡语流奥秘法\淤泥喷射者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\亡语流奥秘法\火球术 - 副本.png">
+      <PackagePath>Assets\亡语流奥秘法\火球术 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\亡语流奥秘法\火球术.png">
+      <PackagePath>Assets\亡语流奥秘法\火球术.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\亡语流奥秘法\烈焰风暴.png">
+      <PackagePath>Assets\亡语流奥秘法\烈焰风暴.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\亡语流奥秘法\疯狂的科学家 - 副本.png">
+      <PackagePath>Assets\亡语流奥秘法\疯狂的科学家 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\亡语流奥秘法\疯狂的科学家.png">
+      <PackagePath>Assets\亡语流奥秘法\疯狂的科学家.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\亡语流奥秘法\肯瑞托法师 - 副本.png">
+      <PackagePath>Assets\亡语流奥秘法\肯瑞托法师 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\亡语流奥秘法\肯瑞托法师.png">
+      <PackagePath>Assets\亡语流奥秘法\肯瑞托法师.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\亡语流奥秘法\送葬者 - 副本.png">
+      <PackagePath>Assets\亡语流奥秘法\送葬者 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\亡语流奥秘法\送葬者.png">
+      <PackagePath>Assets\亡语流奥秘法\送葬者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\亡语流奥秘法\镜像实体 - 副本.png">
+      <PackagePath>Assets\亡语流奥秘法\镜像实体 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\亡语流奥秘法\镜像实体.png">
+      <PackagePath>Assets\亡语流奥秘法\镜像实体.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\亡语流奥秘法\麦田傀儡 - 副本.png">
+      <PackagePath>Assets\亡语流奥秘法\麦田傀儡 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\亡语流奥秘法\麦田傀儡.png">
+      <PackagePath>Assets\亡语流奥秘法\麦田傀儡.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\平民卡组\变形术 - 副本.png">
+      <PackagePath>Assets\平民卡组\变形术 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\平民卡组\变形术.png">
+      <PackagePath>Assets\平民卡组\变形术.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\平民卡组\古拉巴什狂暴者 - 副本.png">
+      <PackagePath>Assets\平民卡组\古拉巴什狂暴者 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\平民卡组\古拉巴什狂暴者.png">
+      <PackagePath>Assets\平民卡组\古拉巴什狂暴者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\平民卡组\奥术智慧 - 副本.png">
+      <PackagePath>Assets\平民卡组\奥术智慧 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\平民卡组\奥术智慧.png">
+      <PackagePath>Assets\平民卡组\奥术智慧.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\平民卡组\奥术飞弹 - 副本.png">
+      <PackagePath>Assets\平民卡组\奥术飞弹 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\平民卡组\奥术飞弹.png">
+      <PackagePath>Assets\平民卡组\奥术飞弹.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\平民卡组\寒冰箭 - 副本.png">
+      <PackagePath>Assets\平民卡组\寒冰箭 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\平民卡组\寒冰箭.png">
+      <PackagePath>Assets\平民卡组\寒冰箭.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\平民卡组\森金持盾卫士 - 副本.png">
+      <PackagePath>Assets\平民卡组\森金持盾卫士 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\平民卡组\森金持盾卫士.png">
+      <PackagePath>Assets\平民卡组\森金持盾卫士.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\平民卡组\水元素 - 副本.png">
+      <PackagePath>Assets\平民卡组\水元素 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\平民卡组\水元素.png">
+      <PackagePath>Assets\平民卡组\水元素.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\平民卡组\火球术 - 副本.png">
+      <PackagePath>Assets\平民卡组\火球术 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\平民卡组\火球术.png">
+      <PackagePath>Assets\平民卡组\火球术.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\平民卡组\烈焰风暴 - 副本.png">
+      <PackagePath>Assets\平民卡组\烈焰风暴 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\平民卡组\烈焰风暴.png">
+      <PackagePath>Assets\平民卡组\烈焰风暴.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\平民卡组\狗头人地卜师 - 副本.png">
+      <PackagePath>Assets\平民卡组\狗头人地卜师 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\平民卡组\狗头人地卜师.png">
+      <PackagePath>Assets\平民卡组\狗头人地卜师.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\平民卡组\竞技场主宰 - 副本.png">
+      <PackagePath>Assets\平民卡组\竞技场主宰 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\平民卡组\竞技场主宰.png">
+      <PackagePath>Assets\平民卡组\竞技场主宰.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\平民卡组\酸性沼泽软泥怪 - 副本.png">
+      <PackagePath>Assets\平民卡组\酸性沼泽软泥怪 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\平民卡组\酸性沼泽软泥怪.png">
+      <PackagePath>Assets\平民卡组\酸性沼泽软泥怪.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\平民卡组\镜像 - 副本.png">
+      <PackagePath>Assets\平民卡组\镜像 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\平民卡组\镜像.png">
+      <PackagePath>Assets\平民卡组\镜像.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\平民卡组\食人魔法师 - 副本.png">
+      <PackagePath>Assets\平民卡组\食人魔法师 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\平民卡组\食人魔法师.png">
+      <PackagePath>Assets\平民卡组\食人魔法师.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\平民卡组\魔爆术 - 副本.png">
+      <PackagePath>Assets\平民卡组\魔爆术 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\平民卡组\魔爆术.png">
+      <PackagePath>Assets\平民卡组\魔爆术.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流中速法\冰枪术 - 副本.png">
+      <PackagePath>Assets\机械流中速法\冰枪术 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流中速法\冰枪术.png">
+      <PackagePath>Assets\机械流中速法\冰枪术.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流中速法\变形术.png">
+      <PackagePath>Assets\机械流中速法\变形术.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流中速法\地精炎术士 - 副本.png">
+      <PackagePath>Assets\机械流中速法\地精炎术士 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流中速法\地精炎术士.png">
+      <PackagePath>Assets\机械流中速法\地精炎术士.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流中速法\奥术智慧 - 副本.png">
+      <PackagePath>Assets\机械流中速法\奥术智慧 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流中速法\奥术智慧.png">
+      <PackagePath>Assets\机械流中速法\奥术智慧.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流中速法\寒冰箭 - 副本.png">
+      <PackagePath>Assets\机械流中速法\寒冰箭 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流中速法\寒冰箭.png">
+      <PackagePath>Assets\机械流中速法\寒冰箭.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流中速法\工匠镇技师 - 副本.png">
+      <PackagePath>Assets\机械流中速法\工匠镇技师 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流中速法\工匠镇技师.png">
+      <PackagePath>Assets\机械流中速法\工匠镇技师.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流中速法\机械跃迁者 - 副本.png">
+      <PackagePath>Assets\机械流中速法\机械跃迁者 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流中速法\机械跃迁者.png">
+      <PackagePath>Assets\机械流中速法\机械跃迁者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流中速法\机械雪人 - 副本.png">
+      <PackagePath>Assets\机械流中速法\机械雪人 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流中速法\机械雪人.png">
+      <PackagePath>Assets\机械流中速法\机械雪人.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流中速法\水元素 - 副本.png">
+      <PackagePath>Assets\机械流中速法\水元素 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流中速法\水元素.png">
+      <PackagePath>Assets\机械流中速法\水元素.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流中速法\洛欧赛布.png">
+      <PackagePath>Assets\机械流中速法\洛欧赛布.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流中速法\火球术 - 副本.png">
+      <PackagePath>Assets\机械流中速法\火球术 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流中速法\火球术.png">
+      <PackagePath>Assets\机械流中速法\火球术.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流中速法\烈焰轰击.png">
+      <PackagePath>Assets\机械流中速法\烈焰轰击.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流中速法\煤烟喷涂装置 - 副本.png">
+      <PackagePath>Assets\机械流中速法\煤烟喷涂装置 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流中速法\煤烟喷涂装置.png">
+      <PackagePath>Assets\机械流中速法\煤烟喷涂装置.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流中速法\碎雪机器人 - 副本.png">
+      <PackagePath>Assets\机械流中速法\碎雪机器人 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流中速法\碎雪机器人.png">
+      <PackagePath>Assets\机械流中速法\碎雪机器人.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流中速法\蜘蛛坦克 - 副本.png">
+      <PackagePath>Assets\机械流中速法\蜘蛛坦克 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流中速法\蜘蛛坦克.png">
+      <PackagePath>Assets\机械流中速法\蜘蛛坦克.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流中速法\血法师萨尔诺斯.png">
+      <PackagePath>Assets\机械流中速法\血法师萨尔诺斯.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流中速法\麦田傀儡 - 副本.png">
+      <PackagePath>Assets\机械流中速法\麦田傀儡 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流中速法\麦田傀儡.png">
+      <PackagePath>Assets\机械流中速法\麦田傀儡.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流速攻法\冰枪术 - 副本.png">
+      <PackagePath>Assets\机械流速攻法\冰枪术 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流速攻法\冰枪术.png">
+      <PackagePath>Assets\机械流速攻法\冰枪术.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流速攻法\发条侏儒 - 副本.png">
+      <PackagePath>Assets\机械流速攻法\发条侏儒 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流速攻法\发条侏儒.png">
+      <PackagePath>Assets\机械流速攻法\发条侏儒.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流速攻法\变形术 - 副本.png">
+      <PackagePath>Assets\机械流速攻法\变形术 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流速攻法\变形术.png">
+      <PackagePath>Assets\机械流速攻法\变形术.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流速攻法\地精炎术士 - 副本.png">
+      <PackagePath>Assets\机械流速攻法\地精炎术士 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流速攻法\地精炎术士.png">
+      <PackagePath>Assets\机械流速攻法\地精炎术士.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流速攻法\大法师安东尼达斯.png">
+      <PackagePath>Assets\机械流速攻法\大法师安东尼达斯.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流速攻法\奥术智慧 - 副本.png">
+      <PackagePath>Assets\机械流速攻法\奥术智慧 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流速攻法\奥术智慧.png">
+      <PackagePath>Assets\机械流速攻法\奥术智慧.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流速攻法\寒冰箭 - 副本.png">
+      <PackagePath>Assets\机械流速攻法\寒冰箭 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流速攻法\寒冰箭.png">
+      <PackagePath>Assets\机械流速攻法\寒冰箭.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流速攻法\工匠镇技师 - 副本.png">
+      <PackagePath>Assets\机械流速攻法\工匠镇技师 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流速攻法\工匠镇技师.png">
+      <PackagePath>Assets\机械流速攻法\工匠镇技师.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流速攻法\机械跃迁者 - 副本.png">
+      <PackagePath>Assets\机械流速攻法\机械跃迁者 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流速攻法\机械跃迁者.png">
+      <PackagePath>Assets\机械流速攻法\机械跃迁者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流速攻法\机械雪人 - 副本.png">
+      <PackagePath>Assets\机械流速攻法\机械雪人 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流速攻法\机械雪人.png">
+      <PackagePath>Assets\机械流速攻法\机械雪人.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流速攻法\水元素.png">
+      <PackagePath>Assets\机械流速攻法\水元素.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流速攻法\法力浮龙 - 副本.png">
+      <PackagePath>Assets\机械流速攻法\法力浮龙 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流速攻法\法力浮龙.png">
+      <PackagePath>Assets\机械流速攻法\法力浮龙.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流速攻法\洛欧赛布.png">
+      <PackagePath>Assets\机械流速攻法\洛欧赛布.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流速攻法\烈焰风暴.png">
+      <PackagePath>Assets\机械流速攻法\烈焰风暴.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流速攻法\碎雪机器人 - 副本.png">
+      <PackagePath>Assets\机械流速攻法\碎雪机器人 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流速攻法\碎雪机器人.png">
+      <PackagePath>Assets\机械流速攻法\碎雪机器人.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流速攻法\蜘蛛坦克 - 副本.png">
+      <PackagePath>Assets\机械流速攻法\蜘蛛坦克 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流速攻法\蜘蛛坦克.png">
+      <PackagePath>Assets\机械流速攻法\蜘蛛坦克.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流速攻法\麦田傀儡 - 副本.png">
+      <PackagePath>Assets\机械流速攻法\麦田傀儡 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\机械流速攻法\麦田傀儡.png">
+      <PackagePath>Assets\机械流速攻法\麦田傀儡.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\上古看守者.png">
+      <PackagePath>Assets\法师卡牌库\上古看守者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\不稳定的传送门.png">
+      <PackagePath>Assets\法师卡牌库\不稳定的传送门.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\丛林猎豹.png">
+      <PackagePath>Assets\法师卡牌库\丛林猎豹.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\任务达人.png">
+      <PackagePath>Assets\法师卡牌库\任务达人.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\伊利丹·怒风.png">
+      <PackagePath>Assets\法师卡牌库\伊利丹·怒风.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\伊瑟拉.png">
+      <PackagePath>Assets\法师卡牌库\伊瑟拉.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\作战傀儡.png">
+      <PackagePath>Assets\法师卡牌库\作战傀儡.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\侏儒发明家.png">
+      <PackagePath>Assets\法师卡牌库\侏儒发明家.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\侏儒变形师.png">
+      <PackagePath>Assets\法师卡牌库\侏儒变形师.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\侏儒实验技师.png">
+      <PackagePath>Assets\法师卡牌库\侏儒实验技师.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\克尔苏加德.png">
+      <PackagePath>Assets\法师卡牌库\克尔苏加德.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\克洛玛古斯.png">
+      <PackagePath>Assets\法师卡牌库\克洛玛古斯.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\冰枪术.png">
+      <PackagePath>Assets\法师卡牌库\冰枪术.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\冰锥术.png">
+      <PackagePath>Assets\法师卡牌库\冰锥术.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\冰霜元素.png">
+      <PackagePath>Assets\法师卡牌库\冰霜元素.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\冰霜新星.png">
+      <PackagePath>Assets\法师卡牌库\冰霜新星.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\冰风雪人.png">
+      <PackagePath>Assets\法师卡牌库\冰风雪人.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\凯恩·血蹄.png">
+      <PackagePath>Assets\法师卡牌库\凯恩·血蹄.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\分裂软泥怪.png">
+      <PackagePath>Assets\法师卡牌库\分裂软泥怪.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\剃刀猎手.png">
+      <PackagePath>Assets\法师卡牌库\剃刀猎手.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\加兹鲁维.png">
+      <PackagePath>Assets\法师卡牌库\加兹鲁维.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\加基森拍卖师.png">
+      <PackagePath>Assets\法师卡牌库\加基森拍卖师.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\南海船工.png">
+      <PackagePath>Assets\法师卡牌库\南海船工.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\南海船长.png">
+      <PackagePath>Assets\法师卡牌库\南海船长.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\发条侏儒.png">
+      <PackagePath>Assets\法师卡牌库\发条侏儒.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\发条巨人.png">
+      <PackagePath>Assets\法师卡牌库\发条巨人.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\变形术.png">
+      <PackagePath>Assets\法师卡牌库\变形术.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\古拉巴什狂暴者.png">
+      <PackagePath>Assets\法师卡牌库\古拉巴什狂暴者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\叫嚣的中士.png">
+      <PackagePath>Assets\法师卡牌库\叫嚣的中士.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\吵吵机器人.png">
+      <PackagePath>Assets\法师卡牌库\吵吵机器人.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\哀嚎的灵魂.png">
+      <PackagePath>Assets\法师卡牌库\哀嚎的灵魂.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\哈里森·琼斯.png">
+      <PackagePath>Assets\法师卡牌库\哈里森·琼斯.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\回收机器人.png">
+      <PackagePath>Assets\法师卡牌库\回收机器人.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\团队领袖.png">
+      <PackagePath>Assets\法师卡牌库\团队领袖.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\圣光护卫者.png">
+      <PackagePath>Assets\法师卡牌库\圣光护卫者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\地精工兵.png">
+      <PackagePath>Assets\法师卡牌库\地精工兵.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\地精炎术士.png">
+      <PackagePath>Assets\法师卡牌库\地精炎术士.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\基维斯.png">
+      <PackagePath>Assets\法师卡牌库\基维斯.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\复制.png">
+      <PackagePath>Assets\法师卡牌库\复制.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\夜刃刺客.png">
+      <PackagePath>Assets\法师卡牌库\夜刃刺客.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\大地之环先知.png">
+      <PackagePath>Assets\法师卡牌库\大地之环先知.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\大法师.png">
+      <PackagePath>Assets\法师卡牌库\大法师.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\大法师安东尼达斯.png">
+      <PackagePath>Assets\法师卡牌库\大法师安东尼达斯.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\大胖.png">
+      <PackagePath>Assets\法师卡牌库\大胖.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\奈法利安.png">
+      <PackagePath>Assets\法师卡牌库\奈法利安.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\奥妮克希亚.png">
+      <PackagePath>Assets\法师卡牌库\奥妮克希亚.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\奥术傀儡.png">
+      <PackagePath>Assets\法师卡牌库\奥术傀儡.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\奥术智慧.png">
+      <PackagePath>Assets\法师卡牌库\奥术智慧.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\奥术飞弹.png">
+      <PackagePath>Assets\法师卡牌库\奥术飞弹.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\奥秘守护者.png">
+      <PackagePath>Assets\法师卡牌库\奥秘守护者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\寒光先知.png">
+      <PackagePath>Assets\法师卡牌库\寒光先知.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\寒冰屏障.png">
+      <PackagePath>Assets\法师卡牌库\寒冰屏障.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\寒冰护体.png">
+      <PackagePath>Assets\法师卡牌库\寒冰护体.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\寒冰箭.png">
+      <PackagePath>Assets\法师卡牌库\寒冰箭.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\小个子召唤师.png">
+      <PackagePath>Assets\法师卡牌库\小个子召唤师.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\小个子扰咒师.png">
+      <PackagePath>Assets\法师卡牌库\小个子扰咒师.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\小个子法师.png">
+      <PackagePath>Assets\法师卡牌库\小个子法师.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\小个子驱魔者.png">
+      <PackagePath>Assets\法师卡牌库\小个子驱魔者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\小精灵.png">
+      <PackagePath>Assets\法师卡牌库\小精灵.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\小鬼召唤师.png">
+      <PackagePath>Assets\法师卡牌库\小鬼召唤师.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\尼鲁巴蛛网领主.png">
+      <PackagePath>Assets\法师卡牌库\尼鲁巴蛛网领主.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\山岭巨人.png">
+      <PackagePath>Assets\法师卡牌库\山岭巨人.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\岩浆暴怒者.png">
+      <PackagePath>Assets\法师卡牌库\岩浆暴怒者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\岩肤石像鬼.png">
+      <PackagePath>Assets\法师卡牌库\岩肤石像鬼.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\工匠大师欧沃斯巴克.png">
+      <PackagePath>Assets\法师卡牌库\工匠大师欧沃斯巴克.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\工匠镇技师.png">
+      <PackagePath>Assets\法师卡牌库\工匠镇技师.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\工程师学徒.png">
+      <PackagePath>Assets\法师卡牌库\工程师学徒.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\工程车.png">
+      <PackagePath>Assets\法师卡牌库\工程车.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\巫医.png">
+      <PackagePath>Assets\法师卡牌库\巫医.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\巫师学徒.png">
+      <PackagePath>Assets\法师卡牌库\巫师学徒.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\布林顿3000型.png">
+      <PackagePath>Assets\法师卡牌库\布林顿3000型.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\希尔瓦娜斯·风行者.png">
+      <PackagePath>Assets\法师卡牌库\希尔瓦娜斯·风行者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\帝王眼镜蛇.png">
+      <PackagePath>Assets\法师卡牌库\帝王眼镜蛇.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\年轻的女祭司.png">
+      <PackagePath>Assets\法师卡牌库\年轻的女祭司.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\年轻的酒仙.png">
+      <PackagePath>Assets\法师卡牌库\年轻的酒仙.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\年迈的法师.png">
+      <PackagePath>Assets\法师卡牌库\年迈的法师.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\年迈的酒仙.png">
+      <PackagePath>Assets\法师卡牌库\年迈的酒仙.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\幸运币.png">
+      <PackagePath>Assets\法师卡牌库\幸运币.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\幼龙鹰.png">
+      <PackagePath>Assets\法师卡牌库\幼龙鹰.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\强化机器人.png">
+      <PackagePath>Assets\法师卡牌库\强化机器人.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\强袭坦克.png">
+      <PackagePath>Assets\法师卡牌库\强袭坦克.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\微型战斗机甲.png">
+      <PackagePath>Assets\法师卡牌库\微型战斗机甲.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\恐怖海盗.png">
+      <PackagePath>Assets\法师卡牌库\恐怖海盗.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\恐怖的奴隶主.png">
+      <PackagePath>Assets\法师卡牌库\恐怖的奴隶主.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\恐狼前锋.png">
+      <PackagePath>Assets\法师卡牌库\恐狼前锋.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\恶毒铁匠.png">
+      <PackagePath>Assets\法师卡牌库\恶毒铁匠.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\愤怒的小鸡.png">
+      <PackagePath>Assets\法师卡牌库\愤怒的小鸡.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\战利品贮藏者.png">
+      <PackagePath>Assets\法师卡牌库\战利品贮藏者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\托什雷.png">
+      <PackagePath>Assets\法师卡牌库\托什雷.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\报警机器人.png">
+      <PackagePath>Assets\法师卡牌库\报警机器人.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\拉文霍德刺客.png">
+      <PackagePath>Assets\法师卡牌库\拉文霍德刺客.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\持盾卫士.png">
+      <PackagePath>Assets\法师卡牌库\持盾卫士.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\斯塔拉格.png">
+      <PackagePath>Assets\法师卡牌库\斯塔拉格.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\斯尼德的伐木机.png">
+      <PackagePath>Assets\法师卡牌库\斯尼德的伐木机.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\施法者克星X-21.png">
+      <PackagePath>Assets\法师卡牌库\施法者克星X-21.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\无面操纵者.png">
+      <PackagePath>Assets\法师卡牌库\无面操纵者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\日怒保卫者.png">
+      <PackagePath>Assets\法师卡牌库\日怒保卫者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\明光祭师.png">
+      <PackagePath>Assets\法师卡牌库\明光祭师.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\暗鳞先知.png">
+      <PackagePath>Assets\法师卡牌库\暗鳞先知.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\暗鳞治愈者.png">
+      <PackagePath>Assets\法师卡牌库\暗鳞治愈者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\暮光幼龙.png">
+      <PackagePath>Assets\法师卡牌库\暮光幼龙.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\暴怒的狼人.png">
+      <PackagePath>Assets\法师卡牌库\暴怒的狼人.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\暴风城勇士.png">
+      <PackagePath>Assets\法师卡牌库\暴风城勇士.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\暴风城骑士.png">
+      <PackagePath>Assets\法师卡牌库\暴风城骑士.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\暴风雪.png">
+      <PackagePath>Assets\法师卡牌库\暴风雪.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\木桶.png">
+      <PackagePath>Assets\法师卡牌库\木桶.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\末日预言者.png">
+      <PackagePath>Assets\法师卡牌库\末日预言者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\机械幼龙技工.png">
+      <PackagePath>Assets\法师卡牌库\机械幼龙技工.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\机械跃迁者.png">
+      <PackagePath>Assets\法师卡牌库\机械跃迁者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\机械雪人.png">
+      <PackagePath>Assets\法师卡牌库\机械雪人.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\松鼠.png">
+      <PackagePath>Assets\法师卡牌库\松鼠.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\格尔宾·梅卡托克.png">
+      <PackagePath>Assets\法师卡牌库\格尔宾·梅卡托克.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\格鲁尔.png">
+      <PackagePath>Assets\法师卡牌库\格鲁尔.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\森金持盾卫士.png">
+      <PackagePath>Assets\法师卡牌库\森金持盾卫士.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\榴弹投手.png">
+      <PackagePath>Assets\法师卡牌库\榴弹投手.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\死亡之翼.png">
+      <PackagePath>Assets\法师卡牌库\死亡之翼.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\死亡领主.png">
+      <PackagePath>Assets\法师卡牌库\死亡领主.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\死神4000型.png">
+      <PackagePath>Assets\法师卡牌库\死神4000型.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\比斯巨兽.png">
+      <PackagePath>Assets\法师卡牌库\比斯巨兽.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\水元素.png">
+      <PackagePath>Assets\法师卡牌库\水元素.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\沼泽爬行者.png">
+      <PackagePath>Assets\法师卡牌库\沼泽爬行者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\法力怨魂.png">
+      <PackagePath>Assets\法师卡牌库\法力怨魂.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\法力浮龙.png">
+      <PackagePath>Assets\法师卡牌库\法力浮龙.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\法术反制.png">
+      <PackagePath>Assets\法师卡牌库\法术反制.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\洛欧赛布.png">
+      <PackagePath>Assets\法师卡牌库\洛欧赛布.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\活动假人.png">
+      <PackagePath>Assets\法师卡牌库\活动假人.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\海地精猎者.png">
+      <PackagePath>Assets\法师卡牌库\海地精猎者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\海巨人.png">
+      <PackagePath>Assets\法师卡牌库\海巨人.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\淤泥喷射者.png">
+      <PackagePath>Assets\法师卡牌库\淤泥喷射者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\淤泥践踏者.png">
+      <PackagePath>Assets\法师卡牌库\淤泥践踏者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\游学者周卓.png">
+      <PackagePath>Assets\法师卡牌库\游学者周卓.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\潜水鳄.png">
+      <PackagePath>Assets\法师卡牌库\潜水鳄.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\火妖.png">
+      <PackagePath>Assets\法师卡牌库\火妖.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\火山幼龙.png">
+      <PackagePath>Assets\法师卡牌库\火山幼龙.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\火球术.png">
+      <PackagePath>Assets\法师卡牌库\火球术.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\火车王里诺艾.png">
+      <PackagePath>Assets\法师卡牌库\火车王里诺艾.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\炎爆术.png">
+      <PackagePath>Assets\法师卡牌库\炎爆术.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\炎魔之王拉格纳罗斯.png">
+      <PackagePath>Assets\法师卡牌库\炎魔之王拉格纳罗斯.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\烈日行者.png">
+      <PackagePath>Assets\法师卡牌库\烈日行者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\烈焰巨兽.png">
+      <PackagePath>Assets\法师卡牌库\烈焰巨兽.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\烈焰轰击.png">
+      <PackagePath>Assets\法师卡牌库\烈焰轰击.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\烈焰风暴.png">
+      <PackagePath>Assets\法师卡牌库\烈焰风暴.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\煤烟喷涂装置.png">
+      <PackagePath>Assets\法师卡牌库\煤烟喷涂装置.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\熔核巨人.png">
+      <PackagePath>Assets\法师卡牌库\熔核巨人.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\熔火恶犬.png">
+      <PackagePath>Assets\法师卡牌库\熔火恶犬.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\熟练的水手.png">
+      <PackagePath>Assets\法师卡牌库\熟练的水手.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\牛头人战士.png">
+      <PackagePath>Assets\法师卡牌库\牛头人战士.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\狂奔科多兽.png">
+      <PackagePath>Assets\法师卡牌库\狂奔科多兽.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\狂野炎术士.png">
+      <PackagePath>Assets\法师卡牌库\狂野炎术士.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\狗头人地卜师.png">
+      <PackagePath>Assets\法师卡牌库\狗头人地卜师.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\狼人渗透者.png">
+      <PackagePath>Assets\法师卡牌库\狼人渗透者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\狼骑兵.png">
+      <PackagePath>Assets\法师卡牌库\狼骑兵.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\王牌猎人.png">
+      <PackagePath>Assets\法师卡牌库\王牌猎人.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\玛洛恩.png">
+      <PackagePath>Assets\法师卡牌库\玛洛恩.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\玛里苟斯.png">
+      <PackagePath>Assets\法师卡牌库\玛里苟斯.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\瑞文戴尔男爵.png">
+      <PackagePath>Assets\法师卡牌库\瑞文戴尔男爵.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\瑟玛普拉格.png">
+      <PackagePath>Assets\法师卡牌库\瑟玛普拉格.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\疯狂投弹者.png">
+      <PackagePath>Assets\法师卡牌库\疯狂投弹者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\疯狂爆破者.png">
+      <PackagePath>Assets\法师卡牌库\疯狂爆破者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\疯狂的炼金师.png">
+      <PackagePath>Assets\法师卡牌库\疯狂的炼金师.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\疯狂的猎人.png">
+      <PackagePath>Assets\法师卡牌库\疯狂的猎人.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\疯狂的科学家.png">
+      <PackagePath>Assets\法师卡牌库\疯狂的科学家.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\疯麻侏儒.png">
+      <PackagePath>Assets\法师卡牌库\疯麻侏儒.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\白银之手骑士.png">
+      <PackagePath>Assets\法师卡牌库\白银之手骑士.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\石拳食人魔.png">
+      <PackagePath>Assets\法师卡牌库\石拳食人魔.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\石牙野猪.png">
+      <PackagePath>Assets\法师卡牌库\石牙野猪.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\石腭穴居人壮汉.png">
+      <PackagePath>Assets\法师卡牌库\石腭穴居人壮汉.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\砰砰博士.png">
+      <PackagePath>Assets\法师卡牌库\砰砰博士.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\破法者.png">
+      <PackagePath>Assets\法师卡牌库\破法者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\破碎残阳祭司.png">
+      <PackagePath>Assets\法师卡牌库\破碎残阳祭司.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\碎石穴居人.png">
+      <PackagePath>Assets\法师卡牌库\碎石穴居人.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\碎雪机器人.png">
+      <PackagePath>Assets\法师卡牌库\碎雪机器人.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\碧蓝幼龙.png">
+      <PackagePath>Assets\法师卡牌库\碧蓝幼龙.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\科赞秘术师.png">
+      <PackagePath>Assets\法师卡牌库\科赞秘术师.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\穆克拉.png">
+      <PackagePath>Assets\法师卡牌库\穆克拉.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\竞技场主宰.png">
+      <PackagePath>Assets\法师卡牌库\竞技场主宰.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\管理者艾克索图斯.png">
+      <PackagePath>Assets\法师卡牌库\管理者艾克索图斯.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\米尔豪斯·法力风暴.png">
+      <PackagePath>Assets\法师卡牌库\米尔豪斯·法力风暴.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\米米尔隆的头部.png">
+      <PackagePath>Assets\法师卡牌库\米米尔隆的头部.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\精灵弓箭手.png">
+      <PackagePath>Assets\法师卡牌库\精灵弓箭手.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\精灵龙.png">
+      <PackagePath>Assets\法师卡牌库\精灵龙.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\精神控制技师.png">
+      <PackagePath>Assets\法师卡牌库\精神控制技师.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\精英牛头人酋长.png">
+      <PackagePath>Assets\法师卡牌库\精英牛头人酋长.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\索瑞森大帝.png">
+      <PackagePath>Assets\法师卡牌库\索瑞森大帝.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\紫罗兰教师.png">
+      <PackagePath>Assets\法师卡牌库\紫罗兰教师.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\纳克萨玛斯之影.png">
+      <PackagePath>Assets\法师卡牌库\纳克萨玛斯之影.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\纳特·帕格.png">
+      <PackagePath>Assets\法师卡牌库\纳特·帕格.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\绿洲钳嘴龟.png">
+      <PackagePath>Assets\法师卡牌库\绿洲钳嘴龟.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\绿皮船长.png">
+      <PackagePath>Assets\法师卡牌库\绿皮船长.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\老式治疗机器人.png">
+      <PackagePath>Assets\法师卡牌库\老式治疗机器人.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\老瞎眼.png">
+      <PackagePath>Assets\法师卡牌库\老瞎眼.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\肉用僵尸.png">
+      <PackagePath>Assets\法师卡牌库\肉用僵尸.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\肯瑞托法师.png">
+      <PackagePath>Assets\法师卡牌库\肯瑞托法师.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\腐肉食尸鬼.png">
+      <PackagePath>Assets\法师卡牌库\腐肉食尸鬼.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\自爆绵羊.png">
+      <PackagePath>Assets\法师卡牌库\自爆绵羊.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\舞动之剑.png">
+      <PackagePath>Assets\法师卡牌库\舞动之剑.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\船载火炮.png">
+      <PackagePath>Assets\法师卡牌库\船载火炮.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\船长的鹦鹉.png">
+      <PackagePath>Assets\法师卡牌库\船长的鹦鹉.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\艾露恩的女祭司.png">
+      <PackagePath>Assets\法师卡牌库\艾露恩的女祭司.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\苦痛侍僧.png">
+      <PackagePath>Assets\法师卡牌库\苦痛侍僧.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\荆棘谷猛虎.png">
+      <PackagePath>Assets\法师卡牌库\荆棘谷猛虎.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\萨尔玛先知.png">
+      <PackagePath>Assets\法师卡牌库\萨尔玛先知.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\蒸发.png">
+      <PackagePath>Assets\法师卡牌库\蒸发.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\蓝腮战士.png">
+      <PackagePath>Assets\法师卡牌库\蓝腮战士.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\藏宝海湾保镖.png">
+      <PackagePath>Assets\法师卡牌库\藏宝海湾保镖.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\虚灵奥术师.png">
+      <PackagePath>Assets\法师卡牌库\虚灵奥术师.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\蛛魔之卵.png">
+      <PackagePath>Assets\法师卡牌库\蛛魔之卵.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\蜘蛛坦克.png">
+      <PackagePath>Assets\法师卡牌库\蜘蛛坦克.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\血帆海盗.png">
+      <PackagePath>Assets\法师卡牌库\血帆海盗.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\血帆袭击者.png">
+      <PackagePath>Assets\法师卡牌库\血帆袭击者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\血沼迅猛龙.png">
+      <PackagePath>Assets\法师卡牌库\血沼迅猛龙.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\血法师萨尔诺斯.png">
+      <PackagePath>Assets\法师卡牌库\血法师萨尔诺斯.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\血色十字军战士.png">
+      <PackagePath>Assets\法师卡牌库\血色十字军战士.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\血骑士.png">
+      <PackagePath>Assets\法师卡牌库\血骑士.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\诅咒教派领袖.png">
+      <PackagePath>Assets\法师卡牌库\诅咒教派领袖.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\诺兹多姆.png">
+      <PackagePath>Assets\法师卡牌库\诺兹多姆.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\诺莫瑞根步兵.png">
+      <PackagePath>Assets\法师卡牌库\诺莫瑞根步兵.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\贝恩·血蹄.png">
+      <PackagePath>Assets\法师卡牌库\贝恩·血蹄.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\负伤剑圣.png">
+      <PackagePath>Assets\法师卡牌库\负伤剑圣.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\费尔根.png">
+      <PackagePath>Assets\法师卡牌库\费尔根.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\赫米特·奈辛瓦里.png">
+      <PackagePath>Assets\法师卡牌库\赫米特·奈辛瓦里.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\践踏.png">
+      <PackagePath>Assets\法师卡牌库\践踏.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\蹒跚的食尸鬼.png">
+      <PackagePath>Assets\法师卡牌库\蹒跚的食尸鬼.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\载人收割机.png">
+      <PackagePath>Assets\法师卡牌库\载人收割机.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\载人飞天魔像.png">
+      <PackagePath>Assets\法师卡牌库\载人飞天魔像.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\达拉然法师.png">
+      <PackagePath>Assets\法师卡牌库\达拉然法师.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\迈克斯纳.png">
+      <PackagePath>Assets\法师卡牌库\迈克斯纳.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\迦顿男爵.png">
+      <PackagePath>Assets\法师卡牌库\迦顿男爵.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\迷失的陆行鸟.png">
+      <PackagePath>Assets\法师卡牌库\迷失的陆行鸟.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\送葬者.png">
+      <PackagePath>Assets\法师卡牌库\送葬者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\酸性沼泽软泥怪.png">
+      <PackagePath>Assets\法师卡牌库\酸性沼泽软泥怪.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\铁喙猫头鹰.png">
+      <PackagePath>Assets\法师卡牌库\铁喙猫头鹰.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\铁炉堡火枪手.png">
+      <PackagePath>Assets\法师卡牌库\铁炉堡火枪手.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\铁鬃灰熊.png">
+      <PackagePath>Assets\法师卡牌库\铁鬃灰熊.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\银月城卫兵.png">
+      <PackagePath>Assets\法师卡牌库\银月城卫兵.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\银背族长.png">
+      <PackagePath>Assets\法师卡牌库\银背族长.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\银色侍从.png">
+      <PackagePath>Assets\法师卡牌库\银色侍从.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\银色指挥官.png">
+      <PackagePath>Assets\法师卡牌库\银色指挥官.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\铸剑师.png">
+      <PackagePath>Assets\法师卡牌库\铸剑师.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\镜像.png">
+      <PackagePath>Assets\法师卡牌库\镜像.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\镜像实体.png">
+      <PackagePath>Assets\法师卡牌库\镜像实体.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\闪金镇步兵.png">
+      <PackagePath>Assets\法师卡牌库\闪金镇步兵.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\阿古斯防御者.png">
+      <PackagePath>Assets\法师卡牌库\阿古斯防御者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\阿曼尼狂战士.png">
+      <PackagePath>Assets\法师卡牌库\阿曼尼狂战士.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\阿莱克丝塔萨.png">
+      <PackagePath>Assets\法师卡牌库\阿莱克丝塔萨.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\雷德·黑手.png">
+      <PackagePath>Assets\法师卡牌库\雷德·黑手.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\雷矛特种兵.png">
+      <PackagePath>Assets\法师卡牌库\雷矛特种兵.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\霍格.png">
+      <PackagePath>Assets\法师卡牌库\霍格.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\霜狼步兵.png">
+      <PackagePath>Assets\法师卡牌库\霜狼步兵.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\霜狼督军.png">
+      <PackagePath>Assets\法师卡牌库\霜狼督军.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\颤地者特罗格佐尔.png">
+      <PackagePath>Assets\法师卡牌库\颤地者特罗格佐尔.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\风怒鹰身人.png">
+      <PackagePath>Assets\法师卡牌库\风怒鹰身人.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\风险投资公司雇佣兵.png">
+      <PackagePath>Assets\法师卡牌库\风险投资公司雇佣兵.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\飞刀杂耍者.png">
+      <PackagePath>Assets\法师卡牌库\飞刀杂耍者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\飞行器.png">
+      <PackagePath>Assets\法师卡牌库\飞行器.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\食人魔勇士穆戈尔.png">
+      <PackagePath>Assets\法师卡牌库\食人魔勇士穆戈尔.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\食人魔步兵.png">
+      <PackagePath>Assets\法师卡牌库\食人魔步兵.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\食人魔法师.png">
+      <PackagePath>Assets\法师卡牌库\食人魔法师.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\饥饿的巨龙.png">
+      <PackagePath>Assets\法师卡牌库\饥饿的巨龙.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\鬼灵爬行者.png">
+      <PackagePath>Assets\法师卡牌库\鬼灵爬行者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\鬼灵骑士.png">
+      <PackagePath>Assets\法师卡牌库\鬼灵骑士.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\魂体双分.png">
+      <PackagePath>Assets\法师卡牌库\魂体双分.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\魔古山守望者.png">
+      <PackagePath>Assets\法师卡牌库\魔古山守望者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\魔暴龙.png">
+      <PackagePath>Assets\法师卡牌库\魔暴龙.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\魔爆术.png">
+      <PackagePath>Assets\法师卡牌库\魔爆术.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\魔瘾者.png">
+      <PackagePath>Assets\法师卡牌库\魔瘾者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\魔能机甲.png">
+      <PackagePath>Assets\法师卡牌库\魔能机甲.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\鱼人招潮者.png">
+      <PackagePath>Assets\法师卡牌库\鱼人招潮者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\鱼人杀手蟹.png">
+      <PackagePath>Assets\法师卡牌库\鱼人杀手蟹.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\鱼人猎潮者.png">
+      <PackagePath>Assets\法师卡牌库\鱼人猎潮者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\鱼人袭击者.png">
+      <PackagePath>Assets\法师卡牌库\鱼人袭击者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\鱼人领军.png">
+      <PackagePath>Assets\法师卡牌库\鱼人领军.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\鲁莽火箭兵.png">
+      <PackagePath>Assets\法师卡牌库\鲁莽火箭兵.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\麦田傀儡.png">
+      <PackagePath>Assets\法师卡牌库\麦田傀儡.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\麦迪文的残影.png">
+      <PackagePath>Assets\法师卡牌库\麦迪文的残影.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\黑翼技师.png">
+      <PackagePath>Assets\法师卡牌库\黑翼技师.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\黑翼腐蚀者.png">
+      <PackagePath>Assets\法师卡牌库\黑翼腐蚀者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\黑铁矮人.png">
+      <PackagePath>Assets\法师卡牌库\黑铁矮人.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\黑骑士.png">
+      <PackagePath>Assets\法师卡牌库\黑骑士.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\齿轮大师.png">
+      <PackagePath>Assets\法师卡牌库\齿轮大师.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\龙人巫师.png">
+      <PackagePath>Assets\法师卡牌库\龙人巫师.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\龙人打击者.png">
+      <PackagePath>Assets\法师卡牌库\龙人打击者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\龙卵.png">
+      <PackagePath>Assets\法师卡牌库\龙卵.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\法师卡牌库\龙息术.png">
+      <PackagePath>Assets\法师卡牌库\龙息术.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从快攻\奥术飞弹 - 副本.png">
+      <PackagePath>Assets\蓝白随从快攻\奥术飞弹 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从快攻\奥术飞弹.png">
+      <PackagePath>Assets\蓝白随从快攻\奥术飞弹.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从快攻\寒冰箭 - 副本.png">
+      <PackagePath>Assets\蓝白随从快攻\寒冰箭 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从快攻\寒冰箭.png">
+      <PackagePath>Assets\蓝白随从快攻\寒冰箭.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从快攻\战利品贮藏者 - 副本.png">
+      <PackagePath>Assets\蓝白随从快攻\战利品贮藏者 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从快攻\战利品贮藏者.png">
+      <PackagePath>Assets\蓝白随从快攻\战利品贮藏者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从快攻\暴怒的狼人 - 副本.png">
+      <PackagePath>Assets\蓝白随从快攻\暴怒的狼人 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从快攻\暴怒的狼人.png">
+      <PackagePath>Assets\蓝白随从快攻\暴怒的狼人.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从快攻\水元素 - 副本.png">
+      <PackagePath>Assets\蓝白随从快攻\水元素 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从快攻\水元素.png">
+      <PackagePath>Assets\蓝白随从快攻\水元素.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从快攻\法力浮龙 - 副本.png">
+      <PackagePath>Assets\蓝白随从快攻\法力浮龙 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从快攻\法力浮龙.png">
+      <PackagePath>Assets\蓝白随从快攻\法力浮龙.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从快攻\烈日行者.png">
+      <PackagePath>Assets\蓝白随从快攻\烈日行者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从快攻\破碎残阳祭司 - 副本.png">
+      <PackagePath>Assets\蓝白随从快攻\破碎残阳祭司 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从快攻\破碎残阳祭司.png">
+      <PackagePath>Assets\蓝白随从快攻\破碎残阳祭司.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从快攻\碧蓝幼龙 - 副本.png">
+      <PackagePath>Assets\蓝白随从快攻\碧蓝幼龙 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从快攻\碧蓝幼龙.png">
+      <PackagePath>Assets\蓝白随从快攻\碧蓝幼龙.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从快攻\银色侍从 - 副本.png">
+      <PackagePath>Assets\蓝白随从快攻\银色侍从 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从快攻\银色侍从.png">
+      <PackagePath>Assets\蓝白随从快攻\银色侍从.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从快攻\银色指挥官.png">
+      <PackagePath>Assets\蓝白随从快攻\银色指挥官.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从快攻\阿曼尼狂战士 - 副本.png">
+      <PackagePath>Assets\蓝白随从快攻\阿曼尼狂战士 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从快攻\阿曼尼狂战士.png">
+      <PackagePath>Assets\蓝白随从快攻\阿曼尼狂战士.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从快攻\飞刀杂耍者 - 副本.png">
+      <PackagePath>Assets\蓝白随从快攻\飞刀杂耍者 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从快攻\飞刀杂耍者.png">
+      <PackagePath>Assets\蓝白随从快攻\飞刀杂耍者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从快攻\麦田傀儡 - 副本.png">
+      <PackagePath>Assets\蓝白随从快攻\麦田傀儡 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从快攻\麦田傀儡.png">
+      <PackagePath>Assets\蓝白随从快攻\麦田傀儡.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从控场\冰风雪人 - 副本.png">
+      <PackagePath>Assets\蓝白随从控场\冰风雪人 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从控场\冰风雪人.png">
+      <PackagePath>Assets\蓝白随从控场\冰风雪人.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从控场\变形术.png">
+      <PackagePath>Assets\蓝白随从控场\变形术.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从控场\奥术智慧.png">
+      <PackagePath>Assets\蓝白随从控场\奥术智慧.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从控场\奥术飞弹.png">
+      <PackagePath>Assets\蓝白随从控场\奥术飞弹.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从控场\寒冰箭 - 副本.png">
+      <PackagePath>Assets\蓝白随从控场\寒冰箭 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从控场\寒冰箭.png">
+      <PackagePath>Assets\蓝白随从控场\寒冰箭.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从控场\日怒保卫者.png">
+      <PackagePath>Assets\蓝白随从控场\日怒保卫者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从控场\水元素 - 副本.png">
+      <PackagePath>Assets\蓝白随从控场\水元素 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从控场\水元素.png">
+      <PackagePath>Assets\蓝白随从控场\水元素.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从控场\法力浮龙 - 副本.png">
+      <PackagePath>Assets\蓝白随从控场\法力浮龙 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从控场\法力浮龙.png">
+      <PackagePath>Assets\蓝白随从控场\法力浮龙.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从控场\火球术 - 副本.png">
+      <PackagePath>Assets\蓝白随从控场\火球术 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从控场\火球术.png">
+      <PackagePath>Assets\蓝白随从控场\火球术.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从控场\狂奔科多兽.png">
+      <PackagePath>Assets\蓝白随从控场\狂奔科多兽.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从控场\疯狂的炼金师.png">
+      <PackagePath>Assets\蓝白随从控场\疯狂的炼金师.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从控场\破碎残阳祭司.png">
+      <PackagePath>Assets\蓝白随从控场\破碎残阳祭司.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从控场\碧蓝幼龙.png">
+      <PackagePath>Assets\蓝白随从控场\碧蓝幼龙.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从控场\苦痛侍僧.png">
+      <PackagePath>Assets\蓝白随从控场\苦痛侍僧.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从控场\银色侍从 - 副本.png">
+      <PackagePath>Assets\蓝白随从控场\银色侍从 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从控场\银色侍从.png">
+      <PackagePath>Assets\蓝白随从控场\银色侍从.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从控场\阿古斯防御者 - 副本.png">
+      <PackagePath>Assets\蓝白随从控场\阿古斯防御者 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从控场\阿古斯防御者.png">
+      <PackagePath>Assets\蓝白随从控场\阿古斯防御者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从控场\阿曼尼狂战士 - 副本.png">
+      <PackagePath>Assets\蓝白随从控场\阿曼尼狂战士 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从控场\阿曼尼狂战士.png">
+      <PackagePath>Assets\蓝白随从控场\阿曼尼狂战士.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从控场\麦田傀儡 - 副本.png">
+      <PackagePath>Assets\蓝白随从控场\麦田傀儡 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\蓝白随从控场\麦田傀儡.png">
+      <PackagePath>Assets\蓝白随从控场\麦田傀儡.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\零件机械法师\不稳定的传送门 - 副本.png">
+      <PackagePath>Assets\零件机械法师\不稳定的传送门 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\零件机械法师\不稳定的传送门.png">
+      <PackagePath>Assets\零件机械法师\不稳定的传送门.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\零件机械法师\加兹鲁维.png">
+      <PackagePath>Assets\零件机械法师\加兹鲁维.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\零件机械法师\发条侏儒 - 副本.png">
+      <PackagePath>Assets\零件机械法师\发条侏儒 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\零件机械法师\发条侏儒.png">
+      <PackagePath>Assets\零件机械法师\发条侏儒.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\零件机械法师\变形术.png">
+      <PackagePath>Assets\零件机械法师\变形术.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\零件机械法师\地精炎术士 - 副本.png">
+      <PackagePath>Assets\零件机械法师\地精炎术士 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\零件机械法师\地精炎术士.png">
+      <PackagePath>Assets\零件机械法师\地精炎术士.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\零件机械法师\大法师安东尼达斯.png">
+      <PackagePath>Assets\零件机械法师\大法师安东尼达斯.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\零件机械法师\奥术智慧 - 副本.png">
+      <PackagePath>Assets\零件机械法师\奥术智慧 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\零件机械法师\奥术智慧.png">
+      <PackagePath>Assets\零件机械法师\奥术智慧.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\零件机械法师\寒冰箭 - 副本.png">
+      <PackagePath>Assets\零件机械法师\寒冰箭 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\零件机械法师\寒冰箭.png">
+      <PackagePath>Assets\零件机械法师\寒冰箭.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\零件机械法师\工匠镇技师 - 副本.png">
+      <PackagePath>Assets\零件机械法师\工匠镇技师 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\零件机械法师\工匠镇技师.png">
+      <PackagePath>Assets\零件机械法师\工匠镇技师.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\零件机械法师\巫师学徒.png">
+      <PackagePath>Assets\零件机械法师\巫师学徒.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\零件机械法师\机械雪人 - 副本.png">
+      <PackagePath>Assets\零件机械法师\机械雪人 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\零件机械法师\机械雪人.png">
+      <PackagePath>Assets\零件机械法师\机械雪人.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\零件机械法师\水元素.png">
+      <PackagePath>Assets\零件机械法师\水元素.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\零件机械法师\法力浮龙 - 副本.png">
+      <PackagePath>Assets\零件机械法师\法力浮龙 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\零件机械法师\法力浮龙.png">
+      <PackagePath>Assets\零件机械法师\法力浮龙.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\零件机械法师\淤泥喷射者 - 副本.png">
+      <PackagePath>Assets\零件机械法师\淤泥喷射者 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\零件机械法师\淤泥喷射者.png">
+      <PackagePath>Assets\零件机械法师\淤泥喷射者.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\零件机械法师\火球术 - 副本.png">
+      <PackagePath>Assets\零件机械法师\火球术 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\零件机械法师\火球术.png">
+      <PackagePath>Assets\零件机械法师\火球术.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\零件机械法师\烈焰轰击.png">
+      <PackagePath>Assets\零件机械法师\烈焰轰击.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\零件机械法师\蜘蛛坦克 - 副本.png">
+      <PackagePath>Assets\零件机械法师\蜘蛛坦克 - 副本.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\零件机械法师\蜘蛛坦克.png">
+      <PackagePath>Assets\零件机械法师\蜘蛛坦克.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\零件机械法师\血法师萨尔诺斯.png">
+      <PackagePath>Assets\零件机械法师\血法师萨尔诺斯.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Assets\卡牌库.txt">
+      <PackagePath>Assets\卡牌库.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\Sounds\music.mp3">
+      <PackagePath>Sounds\music.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\bin\Debug\About.xbf">
+      <PackagePath>About.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\bin\Debug\SecondPage.xbf">
+      <PackagePath>SecondPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\bin\Debug\Skins\MainSkin.xbf">
+      <PackagePath>Skins\MainSkin.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\bin\Debug\TestUserControl.xbf">
+      <PackagePath>TestUserControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\bin\Debug\Themes\Generic.xbf">
+      <PackagePath>Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\bin\Debug\ULike.xbf">
+      <PackagePath>ULike.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\bin\Debug\Project.xr.xml">
+      <PackagePath>Project.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\期中作业\Project\Project\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

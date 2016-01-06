@@ -1,0 +1,32 @@
+﻿<Page
+    x:Class="Project.About"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Project"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid Background="Black">
+            <TextBlock HorizontalAlignment="Left" Margin="556,61,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="80" FontFamily="Angelina" FontWeight="Bold">
+    			<Run Text="About "/>
+    			<Run Text="U"/>
+    			<Run Text="s"/>
+            </TextBlock>
+            <TextBlock HorizontalAlignment="Left" Margin="500,225,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="迷你简硬笔行书" FontSize="80" Height="370" Width="355">
+    			<Run Text="Members"/>
+    			<LineBreak/>
+    			<Run Text="  "/>
+    			<Run Text="庄梓嘉&#xA;"/>
+    			<Run Text="  "/>
+    			<Run Text="庄汉权&#xA; "/>
+    			<Run Text="   "/>
+    			<Run Text="周腾"/>
+            </TextBlock>
+
+        </Grid>
+
+    </Grid>
+</Page>
+
