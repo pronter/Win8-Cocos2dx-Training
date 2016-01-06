@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LO</Machine>
+    <WindowsUser>Zijia</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3b8a8392-b010-4e5d-a496-0c1c435456ba</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Zijia\Desktop\现代应用操作系统\week5\2015hw5AppBar&amp;share\week5\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Zijia\Desktop\现代应用操作系统\week5\2015hw5AppBar&amp;share\week5\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\week5\2015hw5AppBar&amp;share\week5\bin\Debug\week5.exe">
+      <PackagePath>week5.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\week5\2015hw5AppBar&amp;share\week5\Assets\background.jpg">
+      <PackagePath>Assets\background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\week5\2015hw5AppBar&amp;share\week5\Assets\background2.jpg">
+      <PackagePath>Assets\background2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\week5\2015hw5AppBar&amp;share\week5\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\week5\2015hw5AppBar&amp;share\week5\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\week5\2015hw5AppBar&amp;share\week5\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\week5\2015hw5AppBar&amp;share\week5\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\week5\2015hw5AppBar&amp;share\week5\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\week5\2015hw5AppBar&amp;share\week5\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\week5\2015hw5AppBar&amp;share\week5\bin\Debug\page2.xbf">
+      <PackagePath>page2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\week5\2015hw5AppBar&amp;share\week5\bin\Debug\week5.xr.xml">
+      <PackagePath>week5.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\week5\2015hw5AppBar&amp;share\week5\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

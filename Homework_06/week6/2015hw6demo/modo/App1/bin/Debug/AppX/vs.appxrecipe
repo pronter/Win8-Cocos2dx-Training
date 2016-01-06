@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LO</Machine>
+    <WindowsUser>Zijia</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>04cef78c-071c-487e-bec3-5fab2f47415f</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_06\week6\2015hw6demo\modo\App1\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>755BCBD969A650A1282339DE935001C3EA46C162C667424EE93D4446DFCFAAAA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>04cef78c-071c-487e-bec3-5fab2f47415f_1.0.0.0_neutral__j6r0php5z6rmm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>04cef78c-071c-487e-bec3-5fab2f47415f_j6r0php5z6rmm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>04cef78c-071c-487e-bec3-5fab2f47415f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=aozhou</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_06\week6\2015hw6demo\modo\App1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-12T10:58:50.226</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_06\week6\2015hw6demo\modo\App1\bin\Debug\App1.exe">
+      <PackagePath>App1.exe</PackagePath>
+      <Modified>2015-04-12T10:58:46.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_06\week6\2015hw6demo\modo\App1\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_06\week6\2015hw6demo\modo\App1\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_06\week6\2015hw6demo\modo\App1\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_06\week6\2015hw6demo\modo\App1\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_06\week6\2015hw6demo\modo\App1\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-04-12T10:58:46.131</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_06\week6\2015hw6demo\modo\App1\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-04-12T10:58:46.132</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_06\week6\2015hw6demo\modo\App1\bin\Debug\App1.xr.xml">
+      <PackagePath>App1.xr.xml</PackagePath>
+      <Modified>2015-04-05T15:38:48.199</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_06\week6\2015hw6demo\modo\App1\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-04-12T10:58:48.005</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

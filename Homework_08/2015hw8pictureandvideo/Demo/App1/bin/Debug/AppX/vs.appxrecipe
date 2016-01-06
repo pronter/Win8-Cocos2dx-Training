@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CJY</Machine>
+    <WindowsUser>chenjiyun</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>93231408-3598-4469-ab69-81a9e41785e3</PackageIdentityName>
+    <RegisteredManifestChecksum>D51CD15179F5D11E5C3C0E5758938EFB2E1D5EE81EE5CFC0F283F1CB96C07BCC</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>93231408-3598-4469-ab69-81a9e41785e3_1.0.0.0_neutral__j6r0php5z6rmm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>93231408-3598-4469-ab69-81a9e41785e3_j6r0php5z6rmm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>93231408-3598-4469-ab69-81a9e41785e3</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=aozhou</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="H:\中大作业\TA\第八周\Demo\App1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-21T06:02:37.518</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="H:\中大作业\TA\第八周\Demo\App1\bin\Debug\App1.exe">
+      <PackagePath>App1.exe</PackagePath>
+      <Modified>2015-04-21T12:25:53.475</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\中大作业\TA\第八周\Demo\App1\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\中大作业\TA\第八周\Demo\App1\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\中大作业\TA\第八周\Demo\App1\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\中大作业\TA\第八周\Demo\App1\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\中大作业\TA\第八周\Demo\App1\Assets\雷霆.jpg">
+      <PackagePath>Assets\雷霆.jpg</PackagePath>
+      <Modified>2014-03-29T06:09:54.978</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\中大作业\TA\第八周\Demo\App1\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-05-09T17:49:49.541</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\中大作业\TA\第八周\Demo\App1\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-04-21T07:51:11.107</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\中大作业\TA\第八周\Demo\App1\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-04-21T06:02:36.806</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,164 @@
+D:\编程\WIN8\Hol11\App1\App1\bin\Debug\Assets\雷霆.jpg
+D:\编程\WIN8\Hol11\App1\App1\bin\Debug\App.xbf
+D:\编程\WIN8\Hol11\App1\App1\bin\Debug\MainPage.xbf
+D:\编程\WIN8\Hol11\App1\App1\bin\Debug\App1.exe
+D:\编程\WIN8\Hol11\App1\App1\bin\Debug\App1.pdb
+D:\编程\WIN8\Hol11\App1\App1\bin\Debug\resources.pri
+D:\编程\WIN8\Hol11\App1\App1\bin\Debug\AppxManifest.xml
+D:\编程\WIN8\Hol11\App1\App1\bin\Debug\App1.build.appxrecipe
+D:\编程\WIN8\Hol11\App1\App1\obj\Debug\App.g.i.cs
+D:\编程\WIN8\Hol11\App1\App1\obj\Debug\App.g.cs
+D:\编程\WIN8\Hol11\App1\App1\obj\Debug\MainPage.g.i.cs
+D:\编程\WIN8\Hol11\App1\App1\obj\Debug\MainPage.g.cs
+D:\编程\WIN8\Hol11\App1\App1\obj\Debug\XamlTypeInfo.g.cs
+D:\编程\WIN8\Hol11\App1\App1\obj\Debug\App.xaml
+D:\编程\WIN8\Hol11\App1\App1\obj\Debug\App.xbf
+D:\编程\WIN8\Hol11\App1\App1\obj\Debug\XamlSaveStateFile.xml
+D:\编程\WIN8\Hol11\App1\App1\obj\Debug\MainPage.xaml
+D:\编程\WIN8\Hol11\App1\App1\obj\Debug\MainPage.xbf
+D:\编程\WIN8\Hol11\App1\App1\obj\Debug\App1.exe
+D:\编程\WIN8\Hol11\App1\App1\obj\Debug\App1.pdb
+D:\编程\WIN8\Hol11\App1\App1\obj\Debug\priconfig.xml
+D:\编程\WIN8\Hol11\App1\App1\obj\Debug\priconfig.xml.intermediate
+D:\编程\WIN8\Hol11\App1\App1\obj\Debug\layout.resfiles
+D:\编程\WIN8\Hol11\App1\App1\obj\Debug\layout.resfiles.intermediate
+D:\编程\WIN8\Hol11\App1\App1\obj\Debug\resources.resfiles
+D:\编程\WIN8\Hol11\App1\App1\obj\Debug\resources.resfiles.intermediate
+D:\编程\WIN8\Hol11\App1\App1\obj\Debug\pri.resfiles
+D:\编程\WIN8\Hol11\App1\App1\obj\Debug\pri.resfiles.intermediate
+D:\编程\WIN8\Hol11\App1\App1\obj\Debug\qualifiers.txt
+D:\编程\WIN8\Hol11\App1\App1\obj\Debug\qualifiers.txt.intermediate
+D:\编程\WIN8\Hol11\App1\App1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\编程\WIN8\Hol11\App1\App1\obj\Debug\ProjectArchitectures.txt
+D:\编程\WIN8\Hol11\App1\App1\bin\Debug\App1.xr.xml
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\bin\Debug\Assets\雷霆.jpg
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\bin\Debug\App.xbf
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\bin\Debug\MainPage.xbf
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\bin\Debug\App1.xr.xml
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\bin\Debug\App1.exe
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\bin\Debug\App1.pdb
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\bin\Debug\resources.pri
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\bin\Debug\AppxManifest.xml
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\bin\Debug\App1.build.appxrecipe
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\obj\Debug\App.g.i.cs
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\obj\Debug\App.g.cs
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\obj\Debug\MainPage.g.i.cs
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\obj\Debug\MainPage.g.cs
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\obj\Debug\XamlTypeInfo.g.cs
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\obj\Debug\App.xaml
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\obj\Debug\App.xbf
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\obj\Debug\XamlSaveStateFile.xml
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\obj\Debug\MainPage.xaml
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\obj\Debug\MainPage.xbf
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\obj\Debug\App1.exe
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\obj\Debug\App1.pdb
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\obj\Debug\priconfig.xml
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\obj\Debug\priconfig.xml.intermediate
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\obj\Debug\layout.resfiles
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\obj\Debug\layout.resfiles.intermediate
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\obj\Debug\resources.resfiles
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\obj\Debug\resources.resfiles.intermediate
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\obj\Debug\pri.resfiles
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\obj\Debug\pri.resfiles.intermediate
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\obj\Debug\qualifiers.txt
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\obj\Debug\qualifiers.txt.intermediate
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\App1\App1\obj\Debug\ProjectArchitectures.txt
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\bin\Debug\Assets\雷霆.jpg
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\bin\Debug\App.xbf
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\bin\Debug\MainPage.xbf
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\bin\Debug\App1.xr.xml
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\bin\Debug\App1.exe
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\bin\Debug\App1.pdb
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\bin\Debug\resources.pri
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\bin\Debug\AppxManifest.xml
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\bin\Debug\App1.build.appxrecipe
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\obj\Debug\App.g.i.cs
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\obj\Debug\App.g.cs
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\obj\Debug\MainPage.g.i.cs
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\obj\Debug\MainPage.g.cs
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\obj\Debug\XamlTypeInfo.g.cs
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\obj\Debug\App.xaml
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\obj\Debug\App.xbf
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\obj\Debug\XamlSaveStateFile.xml
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\obj\Debug\MainPage.xaml
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\obj\Debug\MainPage.xbf
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\obj\Debug\App1.exe
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\obj\Debug\App1.pdb
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\obj\Debug\priconfig.xml
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\obj\Debug\priconfig.xml.intermediate
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\obj\Debug\layout.resfiles
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\obj\Debug\layout.resfiles.intermediate
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\obj\Debug\resources.resfiles
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\obj\Debug\resources.resfiles.intermediate
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\obj\Debug\pri.resfiles
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\obj\Debug\pri.resfiles.intermediate
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\obj\Debug\qualifiers.txt
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\obj\Debug\qualifiers.txt.intermediate
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\各种资料\学习\大三下\Win8 & 触控\Win8\week8\Demo\App1\obj\Debug\ProjectArchitectures.txt
+H:\中大作业\TA\第八周\Demo\App1\bin\Debug\Assets\雷霆.jpg
+H:\中大作业\TA\第八周\Demo\App1\bin\Debug\App.xbf
+H:\中大作业\TA\第八周\Demo\App1\bin\Debug\MainPage.xbf
+H:\中大作业\TA\第八周\Demo\App1\bin\Debug\App1.exe
+H:\中大作业\TA\第八周\Demo\App1\bin\Debug\App1.pdb
+H:\中大作业\TA\第八周\Demo\App1\bin\Debug\resources.pri
+H:\中大作业\TA\第八周\Demo\App1\bin\Debug\AppxManifest.xml
+H:\中大作业\TA\第八周\Demo\App1\bin\Debug\App1.build.appxrecipe
+H:\中大作业\TA\第八周\Demo\App1\obj\Debug\App.g.i.cs
+H:\中大作业\TA\第八周\Demo\App1\obj\Debug\App.g.cs
+H:\中大作业\TA\第八周\Demo\App1\obj\Debug\MainPage.g.i.cs
+H:\中大作业\TA\第八周\Demo\App1\obj\Debug\MainPage.g.cs
+H:\中大作业\TA\第八周\Demo\App1\obj\Debug\XamlTypeInfo.g.cs
+H:\中大作业\TA\第八周\Demo\App1\obj\Debug\App.xaml
+H:\中大作业\TA\第八周\Demo\App1\obj\Debug\MainPage.xaml
+H:\中大作业\TA\第八周\Demo\App1\obj\Debug\App.xbf
+H:\中大作业\TA\第八周\Demo\App1\obj\Debug\MainPage.xbf
+H:\中大作业\TA\第八周\Demo\App1\obj\Debug\XamlSaveStateFile.xml
+H:\中大作业\TA\第八周\Demo\App1\obj\Debug\App1.exe
+H:\中大作业\TA\第八周\Demo\App1\obj\Debug\App1.pdb
+H:\中大作业\TA\第八周\Demo\App1\obj\Debug\priconfig.xml
+H:\中大作业\TA\第八周\Demo\App1\obj\Debug\priconfig.xml.intermediate
+H:\中大作业\TA\第八周\Demo\App1\obj\Debug\layout.resfiles
+H:\中大作业\TA\第八周\Demo\App1\obj\Debug\layout.resfiles.intermediate
+H:\中大作业\TA\第八周\Demo\App1\obj\Debug\resources.resfiles
+H:\中大作业\TA\第八周\Demo\App1\obj\Debug\resources.resfiles.intermediate
+H:\中大作业\TA\第八周\Demo\App1\obj\Debug\pri.resfiles
+H:\中大作业\TA\第八周\Demo\App1\obj\Debug\pri.resfiles.intermediate
+H:\中大作业\TA\第八周\Demo\App1\obj\Debug\qualifiers.txt
+H:\中大作业\TA\第八周\Demo\App1\obj\Debug\qualifiers.txt.intermediate
+H:\中大作业\TA\第八周\Demo\App1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+H:\中大作业\TA\第八周\Demo\App1\obj\Debug\ProjectArchitectures.txt
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\bin\Debug\Assets\雷霆.jpg
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\bin\Debug\App.xbf
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\bin\Debug\MainPage.xbf
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\bin\Debug\App1.xr.xml
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\bin\Debug\App1.exe
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\bin\Debug\App1.pdb
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\bin\Debug\resources.pri
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\bin\Debug\AppxManifest.xml
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\bin\Debug\App1.build.appxrecipe
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\obj\Debug\App.g.i.cs
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\obj\Debug\App.g.cs
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\obj\Debug\MainPage.g.i.cs
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\obj\Debug\MainPage.g.cs
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\obj\Debug\App.xaml
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\obj\Debug\MainPage.xaml
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\obj\Debug\App.xbf
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\obj\Debug\MainPage.xbf
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\obj\Debug\App1.exe
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\obj\Debug\App1.pdb
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\obj\Debug\priconfig.xml
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\obj\Debug\priconfig.xml.intermediate
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\obj\Debug\layout.resfiles
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\obj\Debug\layout.resfiles.intermediate
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\obj\Debug\resources.resfiles
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\obj\Debug\resources.resfiles.intermediate
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\obj\Debug\pri.resfiles
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\obj\Debug\pri.resfiles.intermediate
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\obj\Debug\qualifiers.txt
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Zijia\Desktop\现代应用操作系统\Homework\Homework_08\2015hw8pictureandvideo\Demo\App1\obj\Debug\ProjectArchitectures.txt

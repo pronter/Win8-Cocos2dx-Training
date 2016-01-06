@@ -1,0 +1,47 @@
+﻿<Page
+    x:Class="week5.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:week5"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.TopAppBar>
+        <AppBar Height="80" Padding="10,0,10,0">
+            <Grid>
+                <AppBarButton x:ConnectionId='1' Icon="Back"                  HorizontalAlignment="Left" VerticalAlignment="Bottom"/>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                    <AppBarButton x:ConnectionId='2' Icon="Forward" VerticalAlignment="Bottom"                />
+                </StackPanel>
+            </Grid>
+        </AppBar>
+    </Page.TopAppBar>
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton Icon="Edit" Label="Edit"/>
+            <AppBarButton Icon="Delete" Label="Delete"/>
+            <AppBarSeparator/>
+            <AppBarButton Icon="More" Label="More"/>
+            <AppBarButton Icon="Help" Label="Help"/>
+            <CommandBar.SecondaryCommands>
+                <AppBarButton x:ConnectionId='3' Icon="Like" Label="Good!"                 />
+                <AppBarButton x:ConnectionId='4' Icon="Dislike" Label="Bad!"                 />
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Assets/background.jpg"/>
+        </Grid.Background>
+        <TextBlock HorizontalAlignment="Left" Margin="252,134,0,0" TextWrapping="Wrap" Text="Page1" VerticalAlignment="Top" FontSize="40"/>
+        <TextBox x:ConnectionId='5' x:Name="text" HorizontalAlignment="Left" Margin="252,268,0,0" TextWrapping="Wrap" Text="Share here!" VerticalAlignment="Top" FontSize="24" Width="500" Height="150"                      >
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0.6"/>
+            </TextBox.Background>
+        </TextBox>
+        <Button x:ConnectionId='6' Content="share" HorizontalAlignment="Left" Height="60" Margin="606,454,0,0" VerticalAlignment="Top" Width="146" FontSize="24"                     FontWeight="Bold"/>
+    </Grid>
+</Page>
+
