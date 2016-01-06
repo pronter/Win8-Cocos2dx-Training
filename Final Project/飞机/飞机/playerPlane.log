@@ -1,0 +1,41 @@
+﻿生成启动时间为 2015/7/1 3:04:18。
+     1>项目“G:\win8_study\1player__plane\playerPlane\proj.win32\playerPlane.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         G:\软件\vs2013\VC\bin\CL.exe /c /IG:\win8_study\1player__plane\playerPlane\cocos2d\cocos\2d\..\..\cocos\audio\include /IG:\win8_study\1player__plane\playerPlane\cocos2d\cocos\2d\..\..\external /IG:\win8_study\1player__plane\playerPlane\cocos2d\cocos\2d\..\..\external\chipmunk\include\chipmunk /IG:\win8_study\1player__plane\playerPlane\cocos2d\cocos\2d\..\..\extensions /I..\Classes /I.. /I"G:\win8_study\1player__plane\playerPlane\cocos2d\cocos\2d\..\..\cocos\editor-support" /IG:\win8_study\1player__plane\playerPlane\cocos2d\cocos\2d\..\..\cocos /IG:\win8_study\1player__plane\playerPlane\cocos2d\cocos\2d\..\..\cocos\platform /IG:\win8_study\1player__plane\playerPlane\cocos2d\cocos\2d\..\..\cocos\platform\desktop /IG:\win8_study\1player__plane\playerPlane\cocos2d\cocos\2d\..\..\external\glfw3\include\win32 /I"G:\win8_study\1player__plane\playerPlane\cocos2d\cocos\2d\..\..\external\win32-specific\gles\include\OGLES" /ZI /nologo /W3 /WX- /MP /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USE_MATH_DEFINES /D GL_GLEXT_PROTOTYPES /D CC_ENABLE_CHIPMUNK_INTEGRATION=1 /D COCOS2D_DEBUG=1 /D _CRT_SECURE_NO_WARNINGS /D _SCL_SECURE_NO_WARNINGS /D _VARIADIC_MAX=10 /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug.win32\\" /Fd"Debug.win32\vc120.pdb" /Gd /TP /wd4267 /wd4251 /wd4244 /analyze- /errorReport:prompt ..\Classes\game_over.cpp
+         game_over.cpp
+     1>g:\win8_study\1player__plane\playerplane\classes\game_over.cpp(34): warning C4996: 'cocos2d::ccp': 被声明为已否决
+                 g:\win8_study\1player__plane\playerplane\cocos2d\cocos\deprecated\ccdeprecated.h(47) : 参见“cocos2d::ccp”的声明
+     1>g:\win8_study\1player__plane\playerplane\classes\game_over.cpp(82): warning C4996: 'cocos2d::ccp': 被声明为已否决
+                 g:\win8_study\1player__plane\playerplane\cocos2d\cocos\deprecated\ccdeprecated.h(47) : 参见“cocos2d::ccp”的声明
+       PreLinkEvent:
+         if not exist "G:\win8_study\1player__plane\playerPlane\proj.win32\Debug.win32\" mkdir "G:\win8_study\1player__plane\playerPlane\proj.win32\Debug.win32\"
+         xcopy /Y /Q "G:\win8_study\1player__plane\playerPlane\cocos2d\cocos\2d\..\..\external\websockets\prebuilt\win32\*.*" "G:\win8_study\1player__plane\playerPlane\proj.win32\Debug.win32\"
+         :VCEnd
+         复制了 2 个文件
+       Link:
+         G:\软件\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\win8_study\1player__plane\playerPlane\proj.win32\Debug.win32\playerPlane.exe" /INCREMENTAL /NOLOGO /LIBPATH:G:\win8_study\1player__plane\playerPlane\proj.win32\Debug.win32\ /LIBPATH:G:\win8_study\1player__plane\playerPlane\proj.win32\Debug.win32\ opengl32.lib glew32.lib libzlib.lib libpng.lib libjpeg.lib libtiff.lib libwebp.lib libiconv.lib glfw3.lib freetype250.lib winmm.lib ws2_32.lib libchipmunk.lib libbox2d.lib libSpine.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\win8_study\1player__plane\playerPlane\proj.win32\Debug.win32\playerPlane.pdb" /SUBSYSTEM:WINDOWS,"5.01" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\win8_study\1player__plane\playerPlane\proj.win32\Debug.win32\playerPlane.lib" /MACHINE:X86 /SAFESEH Debug.win32\game.res
+         Debug.win32\AppDelegate.obj
+         Debug.win32\bullet.obj
+         Debug.win32\enemy_base.obj
+         Debug.win32\game_over.obj
+         Debug.win32\HelloWorldScene.obj
+         Debug.win32\main_game.obj
+         Debug.win32\manager_base.obj
+         Debug.win32\plane_support.obj
+         Debug.win32\select_plane_layer.obj
+         Debug.win32\select_plane_page.obj
+         Debug.win32\select_plane_scene.obj
+         Debug.win32\start_game.obj
+         Debug.win32\suspand_layer.obj
+         Debug.win32\main.obj
+         G:\win8_study\1player__plane\playerPlane\proj.win32\Debug.win32\libcocos2d.lib
+         G:\win8_study\1player__plane\playerPlane\proj.win32\Debug.win32\libSpine.lib
+         G:\win8_study\1player__plane\playerPlane\proj.win32\Debug.win32\libbox2d.lib
+     1>AppDelegate.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+            正在创建库 G:\win8_study\1player__plane\playerPlane\proj.win32\Debug.win32\playerPlane.lib 和对象 G:\win8_study\1player__plane\playerPlane\proj.win32\Debug.win32\playerPlane.exp
+         playerPlane.vcxproj -> G:\win8_study\1player__plane\playerPlane\proj.win32\Debug.win32\playerPlane.exe
+     1>已完成生成项目“G:\win8_study\1player__plane\playerPlane\proj.win32\playerPlane.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:10.32
