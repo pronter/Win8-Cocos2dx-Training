@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LO</Machine>
+    <WindowsUser>Zijia</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>b6a59040-3235-4e44-be3d-963e4e788045</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Zijia\Desktop\13331388_庄梓嘉_hw2\Homework_02\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>6290BF567E9ACAFBE1B75376962E410EE85513D596136D72AAB3BB507ED88BAE</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>b6a59040-3235-4e44-be3d-963e4e788045_1.0.0.0_neutral__tqpv2cva66tke</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>b6a59040-3235-4e44-be3d-963e4e788045_tqpv2cva66tke!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>b6a59040-3235-4e44-be3d-963e4e788045</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Zijia</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Zijia\Desktop\13331388_庄梓嘉_hw2\Homework_02\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-15T13:18:10.594</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\13331388_庄梓嘉_hw2\Homework_02\bin\Debug\Homework_02.exe">
+      <PackagePath>Homework_02.exe</PackagePath>
+      <Modified>2015-03-15T13:18:09.482</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\13331388_庄梓嘉_hw2\Homework_02\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-15T13:12:00.889</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\13331388_庄梓嘉_hw2\Homework_02\Assets\slash.png">
+      <PackagePath>Assets\slash.png</PackagePath>
+      <Modified>2015-03-15T06:11:52.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\13331388_庄梓嘉_hw2\Homework_02\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-15T11:08:48.253</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\13331388_庄梓嘉_hw2\Homework_02\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-15T06:12:46.077</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\13331388_庄梓嘉_hw2\Homework_02\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-15T11:08:23.923</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\13331388_庄梓嘉_hw2\Homework_02\cat.png">
+      <PackagePath>cat.png</PackagePath>
+      <Modified>2015-03-14T13:35:37.071</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\13331388_庄梓嘉_hw2\Homework_02\猫.png">
+      <PackagePath>猫.png</PackagePath>
+      <Modified>2015-03-14T14:27:12.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\13331388_庄梓嘉_hw2\Homework_02\Assets\pic.jpg">
+      <PackagePath>Assets\pic.jpg</PackagePath>
+      <Modified>2015-03-14T13:08:25.762</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\13331388_庄梓嘉_hw2\Homework_02\path.jpg">
+      <PackagePath>path.jpg</PackagePath>
+      <Modified>2015-03-14T13:54:34.268</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\13331388_庄梓嘉_hw2\Homework_02\Sounds\菊次郎的夏天.mp3">
+      <PackagePath>Sounds\菊次郎的夏天.mp3</PackagePath>
+      <Modified>2015-03-15T12:13:04.166</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\13331388_庄梓嘉_hw2\Homework_02\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-03-15T13:18:09.220</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\13331388_庄梓嘉_hw2\Homework_02\bin\Debug\animation.xbf">
+      <PackagePath>animation.xbf</PackagePath>
+      <Modified>2015-03-15T13:18:09.220</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\13331388_庄梓嘉_hw2\Homework_02\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-03-15T13:18:09.220</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\13331388_庄梓嘉_hw2\Homework_02\bin\Debug\Homework_02.xr.xml">
+      <PackagePath>Homework_02.xr.xml</PackagePath>
+      <Modified>2015-03-15T12:18:28.293</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zijia\Desktop\13331388_庄梓嘉_hw2\Homework_02\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-15T13:18:10.288</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
